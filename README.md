@@ -1,6 +1,12 @@
 # Polystate — Crypto and Fintech Tools for Nomads
 
-Your all-in-one platform for digital nomads, expats, and sovereign individuals. Residency programs, company formation, banking, and a curated toolkit of essential services.
+> **[polystate.io](https://polystate.io)** — The Operating System for Sovereign Individuals
+
+Polystate is a platform for digital nomads, Web3 founders, and sovereign individuals looking to build a borderless lifestyle. It combines residency program guidance, company incorporation, banking solutions, and tax optimization into a single dashboard — along with a curated toolkit of crypto, fintech, privacy, and travel tools.
+
+The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (Honduras), and more — each offering different benefits from zero foreign-income tax to fast-track citizenship pathways. Built-in features include a global news feed tracking visa and policy changes, Noma AI for document analysis, and a legal digest for legislative monitoring.
+
+**Core idea:** Use Flag Theory — combine benefits from different countries to maximize personal freedom, protect privacy, and expand what's possible.
 
 ---
 
@@ -302,4 +308,4 @@ Your all-in-one platform for digital nomads, expats, and sovereign individuals. 
 
 ---
 
-Built by [Polystate](https://polystate.app)
+Built by [Polystate](https://polystate.io)
