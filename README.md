@@ -327,4 +327,19 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 
 ---
 
+## Contributing
+
+**Submissions are welcome!** If you know a tool or service that belongs on this list, open a Pull Request or [create an Issue](https://github.com/Spider333/Polystate/issues).
+
+**When submitting, please include:**
+- **Name** of the tool/service
+- **One-line description** (what it does and why it's useful for crypto nomads)
+- **Official website URL**
+- **Category** it belongs to (wallets, exchanges, cards, banking, DeFi, travel, privacy, etc.)
+- **Any personal experience** — have you actually used it? What worked, what didn't?
+
+We're looking for tools that genuinely help people live on crypto while traveling or living abroad. Quality over quantity — if you've battle-tested a service and it's good, we want to hear about it.
+
+---
+
 Built by [Polystate](https://polystate.io)
