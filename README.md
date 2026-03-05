@@ -17,67 +17,67 @@ Your all-in-one platform for digital nomads, expats, and sovereign individuals. 
 ### 💰 Finance
 
 #### Banking
-| Service | Description |
-|---------|-------------|
-| Revolut | Multi-currency account & card |
-| Xapo | Bitcoin custody & payments |
-| Bank of Georgia | Georgian banking |
-| Wise | International transfers |
-| Gnosis Pay | Blockchain payments |
-| Mercury | US business banking |
+| Service | Description | Link |
+|---------|-------------|------|
+| Revolut | Multi-currency digital banking with CRS reporting | [revolut.com](https://www.revolut.com) |
+| Xapo | Gibraltar-licensed bank combining USD + BTC in one account | [xapobank.com](https://www.xapobank.com) |
+| Bank of Georgia | Leading Georgian bank with SOLO X/Premium private banking | [bankofgeorgia.ge](https://bankofgeorgia.ge) |
+| Wise | Low-fee international transfers and multi-currency accounts | [wise.com](https://wise.com) |
+| Gnosis Pay | Self-custodial DeFi-native Visa card, spend stablecoins onchain | [gnosispay.com](https://gnosispay.com) |
+| Mercury | US business banking built for startups and internet companies | [mercury.com](https://mercury.com) |
 
 #### Crypto Platforms
-| Service | Description |
-|---------|-------------|
-| Binance | Crypto exchange |
-| Kraken | Trading & staking |
-| Rabby Wallet | Web3 wallet |
-| Firefish | DeFi platform |
-| Chainflip | Cross-chain swaps |
-| Trocador | Instant crypto exchange |
+| Service | Description | Link |
+|---------|-------------|------|
+| Binance | World's largest crypto exchange with P2P marketplace | [binance.com](https://www.binance.com) |
+| Kraken | Major regulated exchange with advanced trading and staking | [kraken.com](https://www.kraken.com) |
+| Rabby Wallet | Multi-chain Web3 wallet with built-in security engine | [rabby.io](https://rabby.io) |
+| Firefish | Bitcoin-collateralized loans connecting borrowers with lenders | [firefish.io](https://firefish.io) |
+| Chainflip | Decentralized cross-chain swaps with native asset support | [chainflip.io](https://chainflip.io) |
+| Trocador | Non-KYC crypto swap aggregator comparing rates across exchanges | [trocador.app](https://trocador.app) |
 
 #### DeFi & Tax
-| Service | Description |
-|---------|-------------|
-| EtherFi | Liquid staking |
-| Gauntlet USD Alpha | Stablecoin |
-| Ethena | USDe protocol |
-| Resolv | Crypto tax accounting |
-| Atomic Exchange | DEX aggregator |
+| Service | Description | Link |
+|---------|-------------|------|
+| EtherFi | DeFi card with up to 3% cashback, liquid staking yields | [ether.fi](https://www.ether.fi) |
+| Gauntlet USD Alpha | Risk-optimized stablecoin vault targeting safe DeFi yields | [gauntlet.xyz](https://www.gauntlet.xyz) |
+| Ethena | USDe synthetic dollar protocol backed by staked ETH | [ethena.fi](https://ethena.fi) |
+| Resolv | Delta-neutral stablecoin protocol generating yield from funding rates | [resolv.xyz](https://www.resolv.xyz) |
+| Atomic Exchange | Decentralized exchange for trustless BTC and SOL atomic swaps | [atomicexchange.io](https://atomicexchange.io) |
 
 ### ✈️ Travel
 
-| Service | Description |
-|---------|-------------|
-| Airalo | Global eSIM coverage |
-| LNE SIM | Regional connectivity |
-| JMP | Phone number service |
-| TextVerified | SMS verification |
-| SMS Pool | SMS gateway |
-| Best Onward Ticket | Proof-of-onward-travel booking |
-| Anytime Mailbox | Virtual mailbox |
-| SimpleLogin | Email aliasing |
-| MyPokefi | Mobile hotspot |
-| GL.iNet Beryl AX | Travel router |
-| Scrubba Wash Bag | Portable laundry |
-| Roost Laptop Stand | Portable stand |
-| Anker PowerCore | Power bank |
-| SafetyWing | Nomad health insurance |
-| Cigna Global | International coverage |
-| William Russell | Expat insurance |
-| Genki | Digital nomad insurance |
+| Service | Description | Link |
+|---------|-------------|------|
+| Airalo | Global eSIM marketplace with coverage in 200+ countries | [airalo.com](https://www.airalo.com) |
+| LNE SIM | Regional eSIM connectivity for travelers | — |
+| JMP | Phone number service for nomads | [jmp.chat](https://jmp.chat) |
+| TextVerified | SMS verification service for online accounts | [textverified.com](https://textverified.com) |
+| SMS Pool | SMS gateway for verification needs | [smspool.net](https://www.smspool.net) |
+| Best Onward Ticket | Proof-of-onward-travel booking for visa requirements | [bestonwardticket.com](https://bestonwardticket.com) |
+| Anytime Mailbox | Virtual mailbox with real street address worldwide | [anytimemailbox.com](https://www.anytimemailbox.com) |
+| SimpleLogin | Open-source email aliasing to protect your real address | [simplelogin.io](https://simplelogin.io) |
+| MyPokefi | Portable mobile hotspot with global coverage | [mypokefi.com](https://mypokefi.com) |
+| GL.iNet Beryl AX | Compact travel router with VPN client built in | [gl-inet.com](https://www.gl-inet.com) |
+| Scrubba Wash Bag | Portable wash bag — do laundry anywhere | [thescrubba.com](https://thescrubba.com) |
+| Roost Laptop Stand | Ultra-portable laptop stand for ergonomic remote work | [rooststand.com](https://www.rooststand.com) |
+| Anker PowerCore | High-capacity portable power bank | [anker.com](https://www.anker.com) |
+| SafetyWing | Nomad health insurance with global coverage, monthly billing | [safetywing.com](https://safetywing.com) |
+| Cigna Global | International health insurance for expats and global citizens | [cigna.com](https://www.cigna.com) |
+| William Russell | Premium expat insurance with worldwide coverage | [william-russell.com](https://www.william-russell.com) |
+| Genki | Digital nomad insurance designed for location-independent workers | [genki.world](https://www.genki.world) |
 
 ### 🔒 Privacy & Security
 
-| Service | Description |
-|---------|-------------|
-| Obscura | Privacy VPN |
-| ProtonVPN | Encrypted VPN |
-| Bitwarden | Open-source password manager |
-| Dashlane | Password & identity management |
-| Brave | Privacy-focused browser |
-| Firefox | Open-source browser |
-| Tor Browser | Anonymity browser |
+| Service | Description | Link |
+|---------|-------------|------|
+| Obscura | Privacy-first VPN service | [obscura.net](https://obscura.net) |
+| ProtonVPN | Swiss encrypted VPN with no-logs policy | [protonvpn.com](https://protonvpn.com) |
+| Bitwarden | Open-source password manager with end-to-end encryption | [bitwarden.com](https://bitwarden.com) |
+| Dashlane | Password manager with dark web monitoring and VPN | [dashlane.com](https://www.dashlane.com) |
+| Brave | Privacy-focused browser with built-in ad blocker | [brave.com](https://brave.com) |
+| Firefox | Open-source browser with strong privacy protections | [mozilla.org](https://www.mozilla.org/firefox) |
+| Tor Browser | Anonymity browser routing traffic through onion network | [torproject.org](https://www.torproject.org) |
 
 ### 📄 Digital Notary (Notarity)
 
@@ -117,145 +117,145 @@ Your all-in-one platform for digital nomads, expats, and sovereign individuals. 
 
 ## 1. Wallets & Hardware
 
-| # | Tool | Type | Notes | Source | Polystate |
-|---|------|------|-------|--------|-----------|
-| 1 | Phoenix | Lightning wallet | Non-custodial | [L] | 🆕 |
-| 2 | Zeus | Lightning wallet | Non-custodial | [L] | 🆕 |
-| 3 | Breez | Lightning wallet | Non-custodial | [L] | 🆕 |
-| 4 | AlbyHub | Lightning node | Personal node manager | [L] | 🆕 |
-| 5 | Zashi | ZCash wallet | Shielded transactions by default | [both] | 🆕 |
-| 6 | Decaf Wallet | Stablecoin wallet | Moneygram cash withdrawal support | [L] | 🆕 |
-| 7 | Trezor | Hardware wallet | "The best HW wallet" | [D] | 🆕 |
-| 8 | Keystone 3 Pro | Hardware wallet | ZCash focus | [L] | 🆕 |
+| # | Tool | Description | Link | Source | Polystate |
+|---|------|-------------|------|--------|-----------|
+| 1 | Phoenix | Self-custodial Lightning wallet with automatic channel management | [phoenix.acinq.co](https://phoenix.acinq.co) | [L] | 🆕 |
+| 2 | Zeus | Self-custodial Lightning wallet that connects to your own node | [zeusln.com](https://zeusln.com) | [L] | 🆕 |
+| 3 | Breez | Non-custodial Lightning wallet with built-in point-of-sale | [breez.technology](https://breez.technology) | [L] | 🆕 |
+| 4 | AlbyHub | Self-custodial Lightning node-in-a-box with NWC app connections | [albyhub.com](https://albyhub.com) | [L] | 🆕 |
+| 5 | Zashi | Official Zcash wallet with shielded private transactions by default | [zashi.app](https://zashi.app) | [both] | 🆕 |
+| 6 | Decaf Wallet | Stablecoin wallet enabling cash-in/cash-out via MoneyGram worldwide | [decaf.so](https://www.decaf.so) | [L] | 🆕 |
+| 7 | Trezor | Pioneer open-source hardware wallet for secure offline crypto storage | [trezor.io](https://trezor.io) | [D] | 🆕 |
+| 8 | Keystone 3 Pro | Air-gapped hardware wallet with QR code signing, multi-chain support | [keyst.one](https://keyst.one) | [L] | 🆕 |
 
 ## 2. Exchanges & Swap Platforms
 
-| # | Tool | Type | Notes | Source | Polystate |
-|---|------|------|-------|--------|-----------|
-| 9 | Trocador.app | Crypto swap | Non-KYC aggregator | [L] | ✅ |
-| 10 | BasicSwapDEX | DEX | Decentralized | [L] | 🆕 |
-| 11 | Exolix | Crypto swap | Exchange service | [L] | 🆕 |
-| 12 | SeraiDEX | DEX | Decentralized | [L] | 🆕 |
-| 13 | Haveno | P2P exchange | Monero-based P2P | [L] | 🆕 |
-| 14 | Boltz.Exchange | Lightning swap | Lightning ↔ onchain | [L] | 🆕 |
-| 15 | Bisq | DEX | Decentralized Bitcoin exchange | [L] | 🆕 |
-| 16 | ThorSwap | Cross-chain DEX | Cross-chain swaps | [L] | 🆕 |
-| 17 | SimpleSwap | Crypto swap | Swap service | [L] | 🆕 |
-| 18 | Binance P2P | P2P marketplace | Peer-to-peer, local cash trades | [L] | ✅ (Binance) |
-| 19 | Vexl.it | P2P trading | Central Europe focus, cash trades | [L] | 🆕 |
-| 20 | Cryptal.com | Exchange | Georgia's largest crypto exchange | [L] | 🆕 |
-| 21 | Kraken | Exchange | Trusted KYC exchange | [D] | ✅ |
-| 22 | Atomic Exchange | DEX | Native swaps for BTC & SOL | [D] | ✅ |
-| 23 | Conceal | Swap | Anonymous multichain swaps | [D] | 🆕 |
-| 24 | ZKP2P | On/off ramp | Private ZK-based on/off ramp | [D] | 🆕 |
+| # | Tool | Description | Link | Source | Polystate |
+|---|------|-------------|------|--------|-----------|
+| 9 | Trocador.app | Non-KYC crypto swap aggregator comparing rates across exchanges | [trocador.app](https://trocador.app) | [L] | ✅ |
+| 10 | BasicSwapDEX | Privacy-focused DEX using atomic swaps, no intermediaries | [basicswapdex.com](https://basicswapdex.com) | [L] | 🆕 |
+| 11 | Exolix | Instant non-custodial crypto exchange with fixed and floating rates | [exolix.com](https://exolix.com) | [L] | 🆕 |
+| 12 | SeraiDEX | Decentralized exchange for cross-chain swaps using threshold crypto | [serai.exchange](https://serai.exchange) | [L] | 🆕 |
+| 13 | Haveno | Private, decentralized Monero-based peer-to-peer fiat-to-crypto exchange | [haveno.exchange](https://haveno.exchange) | [L] | 🆕 |
+| 14 | Boltz.Exchange | Non-custodial Bitcoin swaps between Lightning, onchain, and Liquid | [boltz.exchange](https://boltz.exchange) | [L] | 🆕 |
+| 15 | Bisq | Decentralized peer-to-peer Bitcoin exchange, no registration or KYC | [bisq.network](https://bisq.network) | [L] | 🆕 |
+| 16 | ThorSwap | Cross-chain DEX aggregator powered by THORChain for native swaps | [thorswap.finance](https://thorswap.finance) | [L] | 🆕 |
+| 17 | SimpleSwap | Instant cryptocurrency exchange supporting 1500+ coins, no registration | [simpleswap.io](https://simpleswap.io) | [L] | 🆕 |
+| 18 | Binance P2P | Peer-to-peer crypto marketplace with escrow for local cash trades | [p2p.binance.com](https://p2p.binance.com) | [L] | ✅ (Binance) |
+| 19 | Vexl.it | Anonymous peer-to-peer Bitcoin trading app using phone contacts | [vexl.it](https://vexl.it) | [L] | 🆕 |
+| 20 | Cryptal.com | Georgian licensed crypto exchange offering trading and payments | [cryptal.com](https://cryptal.com) | [L] | 🆕 |
+| 21 | Kraken | Major regulated cryptocurrency exchange with advanced trading and staking | [kraken.com](https://www.kraken.com) | [D] | ✅ |
+| 22 | Atomic Exchange | Decentralized exchange for trustless BTC and SOL atomic swaps | [atomicexchange.io](https://atomicexchange.io) | [D] | ✅ |
+| 23 | Conceal | Privacy-first anonymous multichain swap service with no KYC | [conceal.exchange](https://conceal.exchange) | [D] | 🆕 |
+| 24 | ZKP2P | Zero-knowledge proof based peer-to-peer crypto on/off ramp | [zkp2p.xyz](https://zkp2p.xyz) | [D] | 🆕 |
 
 ## 3. Crypto Cards & Payment
 
-| # | Tool | Residency Needed | Notes | Source | Polystate |
-|---|------|-----------------|-------|--------|-----------|
-| 25 | XAPO Bank | — | Premium crypto bank (Gibraltar) | [both] | ✅ |
-| 26 | Ether.fi | — | 3% cashback, high limits, best yields | [both] | ✅ |
-| 27 | Gnosis Pay | — | DeFi-native crypto payment card | [D] | ✅ |
-| 28 | Redotpay | — | Crypto card issuer | [L] | 🆕 |
-| 29 | Cypher HQ | — | Crypto card | [L] | 🆕 |
-| 30 | Crypto.com | — | Exchange + card | [L] | 🆕 |
-| 31 | Lulubit | Panama | Panamanian residency card | [L] | 🆕 |
-| 32 | Lemon.me | Argentina | Crypto card, Mercado Pago integration | [L] | 🆕 |
+| # | Tool | Description | Link | Source | Polystate |
+|---|------|-------------|------|--------|-----------|
+| 25 | XAPO Bank | Gibraltar-licensed bank combining BTC + USD, 3.6% USD yield | [xapobank.com](https://www.xapobank.com) | [both] | ✅ |
+| 26 | Ether.fi | DeFi Visa card with up to 3% cashback in wETH, spend against staked ETH | [ether.fi](https://www.ether.fi) | [both] | ✅ |
+| 27 | Gnosis Pay | Self-custodial Visa card spending stablecoins directly from Gnosis Safe | [gnosispay.com](https://gnosispay.com) | [D] | ✅ |
+| 28 | Redotpay | Crypto Visa card supporting 130M+ merchants, 6M+ users globally | [redotpay.com](https://www.redotpay.com) | [L] | 🆕 |
+| 29 | Cypher HQ | Y Combinator-backed zero-fee crypto card supporting 772 cryptocurrencies | [cypherhq.io](https://cypherhq.io) | [L] | 🆕 |
+| 30 | Crypto.com | Exchange + Visa card with tiered cashback based on CRO staking | [crypto.com](https://crypto.com) | [L] | 🆕 |
+| 31 | Lulubit | Panama/Central America crypto platform with Mastercard debit card | [lulubit.app](https://www.lulubit.app) | [L] | 🆕 |
+| 32 | Lemon.me | Argentine crypto fintech with card and Mercado Pago integration | [lemon.me](https://www.lemon.me) | [L] | 🆕 |
 
 ## 4. SEPA & Fiat Bridge Services
 
-| # | Tool | Notes | Source | Polystate |
-|---|------|-------|--------|-----------|
-| 33 | Jeton.com | Best rates for SEPA, limit 2000 EUR/month | [L] | 🆕 |
-| 34 | Uglycash | SEPA-friendly crypto service | [L] | 🆕 |
-| 35 | Bringin.xyz | Pay SEPA bills via Bitcoin Lightning, 15 EUR min | [L] | 🆕 |
-| 36 | Strike | Lightning payments, accepts LN deposits | [L] | 🆕 |
+| # | Tool | Description | Link | Source | Polystate |
+|---|------|-------------|------|--------|-----------|
+| 33 | Jeton.com | Crypto-to-SEPA service with best rates, 2000 EUR/month limit | [jeton.com](https://www.jeton.com) | [L] | 🆕 |
+| 34 | Uglycash | SEPA-friendly crypto off-ramp service | [uglycash.com](https://uglycash.com) | [L] | 🆕 |
+| 35 | Bringin.xyz | Pay SEPA bills via Bitcoin Lightning, 15 EUR minimum | [bringin.xyz](https://bringin.xyz) | [L] | 🆕 |
+| 36 | Strike | Lightning payments app, accepts LN deposits, easy fiat bridge | [strike.me](https://strike.me) | [L] | 🆕 |
 
 ## 5. Digital Banking & Fintech
 
-| # | Tool | Notes | Source | Polystate |
-|---|------|-------|--------|-----------|
-| 37 | Revolut | CRS multi-currency digital banking | [both] | ✅ |
-| 38 | N26 | CRS fintech banking | [L] | 🆕 |
-| 39 | Zen | CRS banking, accepts LN deposits | [L] | 🆕 |
+| # | Tool | Description | Link | Source | Polystate |
+|---|------|-------------|------|--------|-----------|
+| 37 | Revolut | CRS multi-currency digital banking with crypto trading built in | [revolut.com](https://www.revolut.com) | [both] | ✅ |
+| 38 | N26 | CRS European fintech bank with free basic account | [n26.com](https://n26.com) | [L] | 🆕 |
+| 39 | Zen | CRS banking that accepts Lightning Network deposits | [zen.com](https://www.zen.com) | [L] | 🆕 |
 
 ## 6. Non-CRS Bank Accounts (Privacy Banking)
 
-| # | Bank | Country | Notes | Source | Polystate |
-|---|------|---------|-------|--------|-----------|
-| 40 | Banco Atlantida | Honduras | — | [L] | 🆕 |
-| 41 | Bakai.kg | Kyrgyzstan | VISA Infinite available | [L] | 🆕 |
-| 42 | Aiyl Bank | Kyrgyzstan | Alternative option | [L] | 🆕 |
-| 43 | Cambodian banks | Cambodia | Remote opening via Relocatify | [L] | 🆕 |
-| 44 | Familiar / ITAU / UENO | Paraguay | Cedula residency required | [L] | 🆕 |
+| # | Bank | Country | Description | Link | Source | Polystate |
+|---|------|---------|-------------|------|--------|-----------|
+| 40 | Banco Atlantida | Honduras | Largest private bank in Honduras, personal and business banking | [bancatlan.hn](https://www.bancatlan.hn) | [L] | 🆕 |
+| 41 | Bakai.kg | Kyrgyzstan | Commercial bank with VISA Infinite card available | [bakai.kg](https://www.bakai.kg) | [L] | 🆕 |
+| 42 | Aiyl Bank | Kyrgyzstan | Bank focused on agricultural and rural microfinance | [aiylbank.kg](https://www.aiylbank.kg) | [L] | 🆕 |
+| 43 | Cambodian banks | Cambodia | Remote opening via Relocatify service | — | [L] | 🆕 |
+| 44 | Familiar / ITAU / UENO | Paraguay | Local banks requiring cedula residency | — | [L] | 🆕 |
 
 ## 7. CRS Bank with Non-CRS Residency Strategy
 
-| # | Bank | Country | Notes | Source | Polystate |
-|---|------|---------|-------|--------|-----------|
-| 45 | Bank of Georgia | Georgia | SOLO X/Premium/Club. Accepts any tax residency except: Iran, Syria, Iraq, Ghana, Nigeria, Pakistan, Yemen, Afghanistan, Sudan, South Sudan, Somalia, Cuba | [L] | ✅ |
+| # | Bank | Country | Description | Link | Source | Polystate |
+|---|------|---------|-------------|------|--------|-----------|
+| 45 | Bank of Georgia | Georgia | SOLO X/Premium/Club. Accepts any tax residency except sanctioned countries | [bankofgeorgia.ge](https://bankofgeorgia.ge) | [L] | ✅ |
 
 ## 8. DeFi, Lending & Yield
 
-| # | Tool | Type | Notes | Source | Polystate |
-|---|------|------|-------|--------|-----------|
-| 46 | AAVE | DeFi lending | Decentralized, multi-chain | [L] | 🆕 |
-| 47 | Liquity | DeFi stablecoin | LUSD — decentralized stablecoin | [L] | 🆕 |
-| 48 | Summer.fi | DeFi aggregator | — | [L] | 🆕 |
-| 49 | Defillama | Aggregator | Borrowing rate comparison | [L] | 🆕 |
-| 50 | Firefish.io | Semi-centralized | BTC-collateralized loans | [both] | ✅ |
-| 51 | Nexo | Centralized | Crypto lending | [L] | 🆕 |
-| 52 | RESOLV | Stablecoin yield | Stablecoin with interesting yields | [D] | ✅ |
-| 53 | Gauntlet AlphaUSD | Stablecoin yield | Safe stablecoin yields | [D] | ✅ |
-| 54 | Stake Fish | Staking | Non-custodial full ETH validator staking | [D] | 🆕 |
+| # | Tool | Description | Link | Source | Polystate |
+|---|------|-------------|------|--------|-----------|
+| 46 | AAVE | Non-custodial liquidity protocol for lending and borrowing crypto | [aave.com](https://aave.com) | [L] | 🆕 |
+| 47 | Liquity | Governance-free borrowing protocol issuing LUSD against ETH collateral | [liquity.org](https://www.liquity.org) | [L] | 🆕 |
+| 48 | Summer.fi | DeFi portal for borrowing, lending, and yield optimization | [summer.fi](https://summer.fi) | [L] | 🆕 |
+| 49 | DefiLlama | Open-source DeFi analytics dashboard tracking TVL across all chains | [defillama.com](https://defillama.com) | [L] | 🆕 |
+| 50 | Firefish.io | Bitcoin-collateralized loans connecting borrowers with global lenders | [firefish.io](https://firefish.io) | [both] | ✅ |
+| 51 | Nexo | CeFi platform offering crypto-backed loans, earning, and exchange | [nexo.com](https://nexo.com) | [L] | 🆕 |
+| 52 | RESOLV | Delta-neutral stablecoin protocol generating yield from ETH funding rates | [resolv.xyz](https://www.resolv.xyz) | [D] | ✅ |
+| 53 | Gauntlet AlphaUSD | Risk-optimized stablecoin vault by Gauntlet targeting safe DeFi yields | [gauntlet.xyz](https://www.gauntlet.xyz) | [D] | ✅ |
+| 54 | Stake Fish | Professional validator and staking service for ETH and PoS networks | [stake.fish](https://stake.fish) | [D] | 🆕 |
 
 ## 9. Travel & Commerce
 
-| # | Tool | Category | Notes | Source | Polystate |
-|---|------|----------|-------|--------|-----------|
-| 55 | Travala.com | Flights + hotels | Top pick, AVA staking for discounts | [L] | 🆕 |
-| 56 | Destinia | Travel booking | Crypto accepted | [L] | 🆕 |
-| 57 | Wirex Travel | Travel booking | Crypto payments | [L] | 🆕 |
-| 58 | XcelTrip | Travel booking | — | [L] | 🆕 |
-| 59 | ShopinBit | Shopping | Crypto-native shopping | [L] | 🆕 |
-| 60 | BitRefill | Gift cards / top-ups | Vouchers, phone top-ups, bill payments | [L] | 🆕 |
+| # | Tool | Description | Link | Source | Polystate |
+|---|------|-------------|------|--------|-----------|
+| 55 | Travala.com | Book hotels, flights, and activities paying with 100+ cryptos | [travala.com](https://www.travala.com) | [L] | 🆕 |
+| 56 | Destinia | Spanish travel agency accepting Bitcoin for flights and hotels | [destinia.com](https://www.destinia.com) | [L] | 🆕 |
+| 57 | Wirex Travel | Multi-currency card and app for crypto-funded travel spending | [wirex.com](https://www.wirex.com) | [L] | 🆕 |
+| 58 | XcelTrip | Decentralized travel platform booking hotels and flights with crypto | [xceltrip.com](https://www.xceltrip.com) | [L] | 🆕 |
+| 59 | ShopinBit | European online shop accepting Bitcoin and crypto for everyday products | [shopinbit.com](https://www.shopinbit.com) | [L] | 🆕 |
+| 60 | BitRefill | Buy gift cards, eSIMs, and phone top-ups with cryptocurrency | [bitrefill.com](https://www.bitrefill.com) | [L] | 🆕 |
 
 ## 10. Cash Access
 
-| # | Tool | Notes | Source | Polystate |
-|---|------|-------|--------|-----------|
-| 61 | CoinATMRadar | Bitcoin/crypto ATM locator worldwide | [L] | 🆕 |
-| 62 | Decaf Wallet | Moneygram cash withdrawal | [L] | 🆕 |
-| 63 | Western Union | KYC required, traditional | [L] | 🆕 |
-| 64 | Meru | Latin American bill payments | [L] | 🆕 |
+| # | Tool | Description | Link | Source | Polystate |
+|---|------|-------------|------|--------|-----------|
+| 61 | CoinATMRadar | Worldwide map and directory of Bitcoin and crypto ATM locations | [coinatmradar.com](https://coinatmradar.com) | [L] | 🆕 |
+| 62 | Decaf Wallet | Solana wallet enabling Moneygram cash withdrawals from stablecoins | [decaf.so](https://www.decaf.so) | [L] | 🆕 |
+| 63 | Western Union | Global money transfer service for sending and receiving cash | [westernunion.com](https://www.westernunion.com) | [L] | 🆕 |
+| 64 | Meru | Pay Latin American bills and utilities using crypto and stablecoins | [meru.life](https://www.meru.life) | [L] | 🆕 |
 
 ## 11. Privacy & Security
 
-| # | Tool | Notes | Source | Polystate |
-|---|------|-------|--------|-----------|
-| 65 | Tornado Cash | Onchain Ethereum privacy | [D] | 🆕 |
-| 66 | Signal | Encrypted messaging | [L] | 🆕 |
-| 67 | Session | Privacy messaging | [L] | 🆕 |
-| 68 | SimpleX | Decentralized chat | [L] | 🆕 |
-| 69 | Threema | Encrypted messaging | [L] | 🆕 |
-| 70 | Mobimatter.com | Anonymous eSIM (Spark eSIM) | [L] | 🆕 |
+| # | Tool | Description | Link | Source | Polystate |
+|---|------|-------------|------|--------|-----------|
+| 65 | Tornado Cash | Decentralized privacy protocol for anonymous Ethereum transactions | [tornadocash.eth.link](https://tornadocash.eth.link) | [D] | 🆕 |
+| 66 | Signal | Open-source end-to-end encrypted messaging and calling app | [signal.org](https://signal.org) | [L] | 🆕 |
+| 67 | Session | Onion-routed messenger requiring no phone number or personal data | [getsession.org](https://getsession.org) | [L] | 🆕 |
+| 68 | SimpleX | Decentralized messenger with no user identifiers, not even random IDs | [simplex.chat](https://simplex.chat) | [L] | 🆕 |
+| 69 | Threema | Swiss encrypted messenger that works without a phone number | [threema.ch](https://threema.ch) | [L] | 🆕 |
+| 70 | Mobimatter | eSIM marketplace offering prepaid data plans with minimal identity needs | [mobimatter.com](https://www.mobimatter.com) | [L] | 🆕 |
 
 ## 12. Research & Directories
 
-| # | Tool | Notes | Source | Polystate |
-|---|------|-------|--------|-----------|
-| 71 | KYCNotMe | Directory of non-KYC services | [L] | 🆕 |
-| 72 | Monerica.com | Monero merchant directory | [L] | 🆕 |
-| 73 | XMRBazaar | Monero marketplace | [L] | 🆕 |
+| # | Tool | Description | Link | Source | Polystate |
+|---|------|-------------|------|--------|-----------|
+| 71 | KYCNotMe | Curated directory of services that don't require identity verification | [kycnot.me](https://kycnot.me) | [L] | 🆕 |
+| 72 | Monerica | Directory of merchants, services, and exchanges accepting Monero | [monerica.com](https://monerica.com) | [L] | 🆕 |
+| 73 | XMRBazaar | Peer-to-peer marketplace for goods and services paid in Monero | [xmrbazaar.com](https://xmrbazaar.com) | [L] | 🆕 |
 
 ## 13. Residency, Education & Community
 
-| # | Tool | Notes | Source | Polystate |
-|---|------|-------|--------|-----------|
-| 74 | Relocatify | Cambodian bank account remote opening | [L] | 🆕 |
-| 75 | Palau ID | Digital residency program | [D] | 🆕 |
-| 76 | Network School | Balaji's startup society community | [D] | 🆕 |
-| 77 | MSC in Digital Currency | University of Nicosia degree program | [D] | 🆕 |
+| # | Tool | Description | Link | Source | Polystate |
+|---|------|-------------|------|--------|-----------|
+| 74 | Relocatify | Service helping digital nomads open bank accounts and relocate remotely | [relocatify.com](https://www.relocatify.com) | [L] | 🆕 |
+| 75 | Palau ID | Republic of Palau digital residency program with blockchain-based ID | [palaudigitalresidency.pw](https://www.palaudigitalresidency.pw) | [D] | 🆕 |
+| 76 | Network School | Balaji Srinivasan's online academy and startup society community | [thenetworkstate.com](https://thenetworkstate.com/network-school) | [D] | 🆕 |
+| 77 | MSc in Digital Currency | University of Nicosia master's program in blockchain and digital currency | [unic.ac.cy](https://www.unic.ac.cy/blockchain/msc-digital-currency) | [D] | 🆕 |
 
 ---
 
