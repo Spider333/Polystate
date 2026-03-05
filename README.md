@@ -287,16 +287,6 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 
 ---
 
-## Developer & Infra Tools
-
-| # | Tool | Description | Link |
-|---|------|-------------|------|
-| 78 | DigitalOcean | Cloud infrastructure for developers | [digitalocean.com ↗](https://m.do.co/c/c322cd790a11) |
-| 79 | Replit | Browser-based IDE for coding and deploying apps | [replit.com ↗](https://replit.com/refer/stanceldavid) |
-| 80 | Startfleet | Startup launch and incorporation platform | [startfleet.io ↗](https://startfleet.io?affp=4zGQy8KCnWXs) |
-
----
-
 ## Cryptocurrencies Referenced
 
 | # | Coin | Use Case |
@@ -330,10 +320,10 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 
 | Metric | Count |
 |--------|-------|
-| **Total tools/services** | 80 |
+| **Total tools/services** | 77 |
 | ✅ Already on Polystate | ~15 |
-| 🆕 Not yet on Polystate | ~65 |
-| ↗ Affiliate links | ~27 |
+| 🆕 Not yet on Polystate | ~62 |
+| ↗ Affiliate links | ~24 |
 
 ---
 
