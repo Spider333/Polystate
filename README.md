@@ -181,14 +181,25 @@ Your all-in-one platform for digital nomads, expats, and sovereign individuals. 
 | 40 | Banco Atlantida | Honduras | Largest private bank in Honduras, personal and business banking | [bancatlan.hn](https://www.bancatlan.hn) | 🆕 |
 | 41 | Bakai.kg | Kyrgyzstan | Commercial bank with VISA Infinite card available | [bakai.kg](https://www.bakai.kg) | 🆕 |
 | 42 | Aiyl Bank | Kyrgyzstan | Bank focused on agricultural and rural microfinance | [aiylbank.kg](https://www.aiylbank.kg) | 🆕 |
-| 43 | Cambodian banks | Cambodia | Remote opening via Relocatify service | — | 🆕 |
+| 43 | Cambodian banks | Cambodia | Remote opening available, non-CRS jurisdiction | — | 🆕 |
 | 44 | Familiar / ITAU / UENO | Paraguay | Local banks requiring cedula residency | — | 🆕 |
 
 ## 7. CRS Bank with Non-CRS Residency Strategy
 
+> **Strategy:** Combine a non-CRS tax residency (Paraguay, Panama, Kyrgyzstan, Cambodia) with a CRS-reporting bank. The bank reports to your country of tax residency — which doesn't participate in CRS. Result: no automatic exchange of financial data.
+
 | # | Bank | Country | Description | Link | Polystate |
 |---|------|---------|-------------|------|-----------|
 | 45 | Bank of Georgia | Georgia | SOLO X/Premium/Club. Accepts any tax residency except sanctioned countries | [bankofgeorgia.ge](https://bankofgeorgia.ge) | ✅ |
+
+**Recommended non-CRS residency + bank account combinations:**
+
+| Country | CRS Status | Bank Account Options | Notes |
+|---------|-----------|---------------------|-------|
+| Paraguay | Non-CRS | Familiar, ITAU, Banco UENO | Cedula (residency ID) required to open. Low-cost residency, no minimum stay. |
+| Panama | Non-CRS | Banco General, BAC, Banistmo | Friendly Nationals visa or residency required. Dollar-denominated economy. |
+| Kyrgyzstan | Non-CRS | Bakai Bank (VISA Infinite), Aiyl Bank | Easy to open for foreigners. Low cost of living, emerging nomad hub. |
+| Cambodia | Non-CRS | ABA Bank, ACLEDA, Wing Bank | Remote opening possible. USD widely accepted. Minimal reporting. |
 
 ## 8. DeFi, Lending & Yield
 
@@ -243,14 +254,13 @@ Your all-in-one platform for digital nomads, expats, and sovereign individuals. 
 | 72 | Monerica | Directory of merchants, services, and exchanges accepting Monero | [monerica.com](https://monerica.com) | 🆕 |
 | 73 | XMRBazaar | Peer-to-peer marketplace for goods and services paid in Monero | [xmrbazaar.com](https://xmrbazaar.com) | 🆕 |
 
-## 13. Residency, Education & Community
+## 13. Education & Community
 
 | # | Tool | Description | Link | Polystate |
 |---|------|-------------|------|-----------|
-| 74 | Relocatify | Service helping digital nomads open bank accounts and relocate remotely | [relocatify.com](https://www.relocatify.com) | 🆕 |
-| 75 | Palau ID | Republic of Palau digital residency program with blockchain-based ID | [palaudigitalresidency.pw](https://www.palaudigitalresidency.pw) | 🆕 |
-| 76 | Network School | Balaji Srinivasan's online academy and startup society community | [thenetworkstate.com](https://thenetworkstate.com/network-school) | 🆕 |
-| 77 | MSc in Digital Currency | University of Nicosia master's program in blockchain and digital currency | [unic.ac.cy](https://www.unic.ac.cy/blockchain/msc-digital-currency) | 🆕 |
+| 74 | Palau ID | Republic of Palau digital residency program with blockchain-based ID | [palaudigitalresidency.pw](https://www.palaudigitalresidency.pw) | 🆕 |
+| 75 | Network School | Balaji Srinivasan's online academy and startup society community | [thenetworkstate.com](https://thenetworkstate.com/network-school) | 🆕 |
+| 76 | MSc in Digital Currency | University of Nicosia master's program in blockchain and digital currency | [unic.ac.cy](https://www.unic.ac.cy/blockchain/msc-digital-currency) | 🆕 |
 
 ---
 
@@ -274,7 +284,7 @@ Your all-in-one platform for digital nomads, expats, and sovereign individuals. 
 
 ## Key Strategies
 
-1. **Non-CRS tax residency** (Paraguay, Panama, Uruguay) + Bank of Georgia for CRS banking access
+1. **Non-CRS tax residency** (Paraguay, Panama, Kyrgyzstan, Cambodia) + Bank of Georgia for CRS banking access
 2. **Privacy stack**: Monero/ZCash for anonymous, Lightning for pseudo-anonymous, stablecoin cards for daily spend
 3. **Travel**: Travala.com as primary booking, BitRefill for vouchers/top-ups
 4. **SEPA access**: Jeton.com (2000 EUR/month) or Bringin.xyz (Lightning to SEPA)
@@ -287,9 +297,9 @@ Your all-in-one platform for digital nomads, expats, and sovereign individuals. 
 
 | Metric | Count |
 |--------|-------|
-| **Total tools/services** | 77 |
+| **Total tools/services** | 76 |
 | ✅ Already on Polystate | ~15 |
-| 🆕 Not yet on Polystate | ~62 |
+| 🆕 Not yet on Polystate | ~61 |
 
 ---
 
