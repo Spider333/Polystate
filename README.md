@@ -1,4 +1,4 @@
-# Polystate — Nomad Tools
+# Polystate — Crypto and Fintech Tools for Nomads
 
 Your all-in-one platform for digital nomads, expats, and sovereign individuals. Residency programs, company formation, banking, and a curated toolkit of essential services.
 
@@ -102,7 +102,7 @@ Your all-in-one platform for digital nomads, expats, and sovereign individuals. 
 
 # Crypto Nomad Tools & Services — Complete List (2025)
 
-> Comprehensive directory of tools for surviving on crypto as a digital nomad.
+> Comprehensive directory of crypto and fintech tools for surviving on crypto as a digital nomad.
 
 **Legend:**
 - ✅ = Already on Polystate toolkit
@@ -178,11 +178,10 @@ Your all-in-one platform for digital nomads, expats, and sovereign individuals. 
 
 | # | Bank | Country | Description | Link | Polystate |
 |---|------|---------|-------------|------|-----------|
-| 40 | Banco Atlantida | Honduras | Largest private bank in Honduras, personal and business banking | [bancatlan.hn](https://www.bancatlan.hn) | 🆕 |
-| 41 | Bakai.kg | Kyrgyzstan | Commercial bank with VISA Infinite card available | [bakai.kg](https://www.bakai.kg) | 🆕 |
-| 42 | Aiyl Bank | Kyrgyzstan | Bank focused on agricultural and rural microfinance | [aiylbank.kg](https://www.aiylbank.kg) | 🆕 |
-| 43 | Cambodian banks | Cambodia | Remote opening available, non-CRS jurisdiction | — | 🆕 |
-| 44 | Familiar / ITAU / UENO | Paraguay | Local banks requiring cedula residency | — | 🆕 |
+| 40 | Bakai.kg | Kyrgyzstan | Commercial bank with VISA Infinite card available | [bakai.kg](https://www.bakai.kg) | 🆕 |
+| 41 | Aiyl Bank | Kyrgyzstan | Bank focused on agricultural and rural microfinance | [aiylbank.kg](https://www.aiylbank.kg) | 🆕 |
+| 42 | Cambodian banks | Cambodia | Remote opening available, non-CRS jurisdiction | — | 🆕 |
+| 43 | Familiar / ITAU / UENO | Paraguay | Local banks requiring cedula residency | — | 🆕 |
 
 ## 7. CRS Bank with Non-CRS Residency Strategy
 
@@ -190,7 +189,7 @@ Your all-in-one platform for digital nomads, expats, and sovereign individuals. 
 
 | # | Bank | Country | Description | Link | Polystate |
 |---|------|---------|-------------|------|-----------|
-| 45 | Bank of Georgia | Georgia | SOLO X/Premium/Club. Accepts any tax residency except sanctioned countries | [bankofgeorgia.ge](https://bankofgeorgia.ge) | ✅ |
+| 44 | Bank of Georgia | Georgia | SOLO X/Premium/Club. Accepts any tax residency except sanctioned countries | [bankofgeorgia.ge](https://bankofgeorgia.ge) | ✅ |
 
 **Recommended non-CRS residency + bank account combinations:**
 
@@ -205,62 +204,62 @@ Your all-in-one platform for digital nomads, expats, and sovereign individuals. 
 
 | # | Tool | Description | Link | Polystate |
 |---|------|-------------|------|-----------|
-| 46 | AAVE | Non-custodial liquidity protocol for lending and borrowing crypto | [aave.com](https://aave.com) | 🆕 |
-| 47 | Liquity | Governance-free borrowing protocol issuing LUSD against ETH collateral | [liquity.org](https://www.liquity.org) | 🆕 |
-| 48 | Summer.fi | DeFi portal for borrowing, lending, and yield optimization | [summer.fi](https://summer.fi) | 🆕 |
-| 49 | DefiLlama | Open-source DeFi analytics dashboard tracking TVL across all chains | [defillama.com](https://defillama.com) | 🆕 |
-| 50 | Firefish.io | Bitcoin-collateralized loans connecting borrowers with global lenders | [firefish.io](https://firefish.io) | ✅ |
-| 51 | Nexo | CeFi platform offering crypto-backed loans, earning, and exchange | [nexo.com](https://nexo.com) | 🆕 |
-| 52 | RESOLV | Delta-neutral stablecoin protocol generating yield from ETH funding rates | [resolv.xyz](https://www.resolv.xyz) | ✅ |
-| 53 | Gauntlet AlphaUSD | Risk-optimized stablecoin vault by Gauntlet targeting safe DeFi yields | [gauntlet.xyz](https://www.gauntlet.xyz) | ✅ |
-| 54 | Stake Fish | Professional validator and staking service for ETH and PoS networks | [stake.fish](https://stake.fish) | 🆕 |
+| 45 | AAVE | Non-custodial liquidity protocol for lending and borrowing crypto | [aave.com](https://aave.com) | 🆕 |
+| 46 | Liquity | Governance-free borrowing protocol issuing LUSD against ETH collateral | [liquity.org](https://www.liquity.org) | 🆕 |
+| 47 | Summer.fi | DeFi portal for borrowing, lending, and yield optimization | [summer.fi](https://summer.fi) | 🆕 |
+| 48 | DefiLlama | Open-source DeFi analytics dashboard tracking TVL across all chains | [defillama.com](https://defillama.com) | 🆕 |
+| 49 | Firefish.io | Bitcoin-collateralized loans connecting borrowers with global lenders | [firefish.io](https://firefish.io) | ✅ |
+| 50 | Nexo | CeFi platform offering crypto-backed loans, earning, and exchange | [nexo.com](https://nexo.com) | 🆕 |
+| 51 | RESOLV | Delta-neutral stablecoin protocol generating yield from ETH funding rates | [resolv.xyz](https://www.resolv.xyz) | ✅ |
+| 52 | Gauntlet AlphaUSD | Risk-optimized stablecoin vault by Gauntlet targeting safe DeFi yields | [gauntlet.xyz](https://www.gauntlet.xyz) | ✅ |
+| 53 | Stake Fish | Professional validator and staking service for ETH and PoS networks | [stake.fish](https://stake.fish) | 🆕 |
 
 ## 9. Travel & Commerce
 
 | # | Tool | Description | Link | Polystate |
 |---|------|-------------|------|-----------|
-| 55 | Travala.com | Book hotels, flights, and activities paying with 100+ cryptos | [travala.com](https://www.travala.com) | 🆕 |
-| 56 | Destinia | Spanish travel agency accepting Bitcoin for flights and hotels | [destinia.com](https://www.destinia.com) | 🆕 |
-| 57 | Wirex Travel | Multi-currency card and app for crypto-funded travel spending | [wirex.com](https://www.wirex.com) | 🆕 |
-| 58 | XcelTrip | Decentralized travel platform booking hotels and flights with crypto | [xceltrip.com](https://www.xceltrip.com) | 🆕 |
-| 59 | ShopinBit | European online shop accepting Bitcoin and crypto for everyday products | [shopinbit.com](https://www.shopinbit.com) | 🆕 |
-| 60 | BitRefill | Buy gift cards, eSIMs, and phone top-ups with cryptocurrency | [bitrefill.com](https://www.bitrefill.com) | 🆕 |
+| 54 | Travala.com | Book hotels, flights, and activities paying with 100+ cryptos | [travala.com](https://www.travala.com) | 🆕 |
+| 55 | Destinia | Spanish travel agency accepting Bitcoin for flights and hotels | [destinia.com](https://www.destinia.com) | 🆕 |
+| 56 | Wirex Travel | Multi-currency card and app for crypto-funded travel spending | [wirex.com](https://www.wirex.com) | 🆕 |
+| 57 | XcelTrip | Decentralized travel platform booking hotels and flights with crypto | [xceltrip.com](https://www.xceltrip.com) | 🆕 |
+| 58 | ShopinBit | European online shop accepting Bitcoin and crypto for everyday products | [shopinbit.com](https://www.shopinbit.com) | 🆕 |
+| 59 | BitRefill | Buy gift cards, eSIMs, and phone top-ups with cryptocurrency | [bitrefill.com](https://www.bitrefill.com) | 🆕 |
 
 ## 10. Cash Access
 
 | # | Tool | Description | Link | Polystate |
 |---|------|-------------|------|-----------|
-| 61 | CoinATMRadar | Worldwide map and directory of Bitcoin and crypto ATM locations | [coinatmradar.com](https://coinatmradar.com) | 🆕 |
-| 62 | Decaf Wallet | Solana wallet enabling Moneygram cash withdrawals from stablecoins | [decaf.so](https://www.decaf.so) | 🆕 |
-| 63 | Western Union | Global money transfer service for sending and receiving cash | [westernunion.com](https://www.westernunion.com) | 🆕 |
-| 64 | Meru | Pay Latin American bills and utilities using crypto and stablecoins | [meru.life](https://www.meru.life) | 🆕 |
+| 60 | CoinATMRadar | Worldwide map and directory of Bitcoin and crypto ATM locations | [coinatmradar.com](https://coinatmradar.com) | 🆕 |
+| 61 | Decaf Wallet | Solana wallet enabling Moneygram cash withdrawals from stablecoins | [decaf.so](https://www.decaf.so) | 🆕 |
+| 62 | Western Union | Global money transfer service for sending and receiving cash | [westernunion.com](https://www.westernunion.com) | 🆕 |
+| 63 | Meru | Pay Latin American bills and utilities using crypto and stablecoins | [meru.life](https://www.meru.life) | 🆕 |
 
 ## 11. Privacy & Security
 
 | # | Tool | Description | Link | Polystate |
 |---|------|-------------|------|-----------|
-| 65 | Tornado Cash | Decentralized privacy protocol for anonymous Ethereum transactions | [tornadocash.eth.link](https://tornadocash.eth.link) | 🆕 |
-| 66 | Signal | Open-source end-to-end encrypted messaging and calling app | [signal.org](https://signal.org) | 🆕 |
-| 67 | Session | Onion-routed messenger requiring no phone number or personal data | [getsession.org](https://getsession.org) | 🆕 |
-| 68 | SimpleX | Decentralized messenger with no user identifiers, not even random IDs | [simplex.chat](https://simplex.chat) | 🆕 |
-| 69 | Threema | Swiss encrypted messenger that works without a phone number | [threema.ch](https://threema.ch) | 🆕 |
-| 70 | Mobimatter | eSIM marketplace offering prepaid data plans with minimal identity needs | [mobimatter.com](https://www.mobimatter.com) | 🆕 |
+| 64 | Tornado Cash | Decentralized privacy protocol for anonymous Ethereum transactions | [tornadocash.eth.link](https://tornadocash.eth.link) | 🆕 |
+| 65 | Signal | Open-source end-to-end encrypted messaging and calling app | [signal.org](https://signal.org) | 🆕 |
+| 66 | Session | Onion-routed messenger requiring no phone number or personal data | [getsession.org](https://getsession.org) | 🆕 |
+| 67 | SimpleX | Decentralized messenger with no user identifiers, not even random IDs | [simplex.chat](https://simplex.chat) | 🆕 |
+| 68 | Threema | Swiss encrypted messenger that works without a phone number | [threema.ch](https://threema.ch) | 🆕 |
+| 69 | Mobimatter | eSIM marketplace offering prepaid data plans with minimal identity needs | [mobimatter.com](https://www.mobimatter.com) | 🆕 |
 
 ## 12. Research & Directories
 
 | # | Tool | Description | Link | Polystate |
 |---|------|-------------|------|-----------|
-| 71 | KYCNotMe | Curated directory of services that don't require identity verification | [kycnot.me](https://kycnot.me) | 🆕 |
-| 72 | Monerica | Directory of merchants, services, and exchanges accepting Monero | [monerica.com](https://monerica.com) | 🆕 |
-| 73 | XMRBazaar | Peer-to-peer marketplace for goods and services paid in Monero | [xmrbazaar.com](https://xmrbazaar.com) | 🆕 |
+| 70 | KYCNotMe | Curated directory of services that don't require identity verification | [kycnot.me](https://kycnot.me) | 🆕 |
+| 71 | Monerica | Directory of merchants, services, and exchanges accepting Monero | [monerica.com](https://monerica.com) | 🆕 |
+| 72 | XMRBazaar | Peer-to-peer marketplace for goods and services paid in Monero | [xmrbazaar.com](https://xmrbazaar.com) | 🆕 |
 
 ## 13. Education & Community
 
 | # | Tool | Description | Link | Polystate |
 |---|------|-------------|------|-----------|
-| 74 | Palau ID | Republic of Palau digital residency program with blockchain-based ID | [palaudigitalresidency.pw](https://www.palaudigitalresidency.pw) | 🆕 |
-| 75 | Network School | Balaji Srinivasan's online academy and startup society community | [thenetworkstate.com](https://thenetworkstate.com/network-school) | 🆕 |
-| 76 | MSc in Digital Currency | University of Nicosia master's program in blockchain and digital currency | [unic.ac.cy](https://www.unic.ac.cy/blockchain/msc-digital-currency) | 🆕 |
+| 73 | Palau ID | Republic of Palau digital residency program with blockchain-based ID | [palaudigitalresidency.pw](https://www.palaudigitalresidency.pw) | 🆕 |
+| 74 | Network School | Balaji Srinivasan's online academy and startup society community | [thenetworkstate.com](https://thenetworkstate.com/network-school) | 🆕 |
+| 75 | MSc in Digital Currency | University of Nicosia master's program in blockchain and digital currency | [unic.ac.cy](https://www.unic.ac.cy/blockchain/msc-digital-currency) | 🆕 |
 
 ---
 
@@ -297,9 +296,9 @@ Your all-in-one platform for digital nomads, expats, and sovereign individuals. 
 
 | Metric | Count |
 |--------|-------|
-| **Total tools/services** | 76 |
+| **Total tools/services** | 75 |
 | ✅ Already on Polystate | ~15 |
-| 🆕 Not yet on Polystate | ~61 |
+| 🆕 Not yet on Polystate | ~60 |
 
 ---
 
