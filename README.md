@@ -12,7 +12,7 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 
 ### 🤝 Support Polystate
 
-**Many links below are affiliate/referral links.** When you sign up through them, you support the platform at no extra cost to you — and in some cases you get a bonus too. If you find this list useful, using the referral links is the easiest way to say thanks.
+**Many links below are affiliate/referral links (marked with ↗).** When you sign up through them, you support the platform at no extra cost to you — and in some cases you get a bonus too. If you find this list useful, using the referral links is the easiest way to say thanks.
 
 ---
 
@@ -21,6 +21,11 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 - **Residency Programs** — Country-specific residency solutions (Paraguay, Georgia, UAE, and more)
 - **Company Incorporation** — LLC & business formation across jurisdictions
 - **Banking Solutions** — Payment and banking infrastructure setup
+- **Prospera Residency** — [NomadLayer ↗](https://nomadlayer.com/?r=polystate) | Lump-sum residency in Prospera
+- **Prospera Company** — [prospera.co ↗](https://prospera.co/r/polystate) | Company formation in Prospera
+- **Bhutan Digital GMC** — [digitalgmc.com ↗](https://partners.digitalgmc.com/bhutan/16/?campaign=Polystate) | Bhutan digital residency
+- **US LLC Tax Filings** — [form5472.ai ↗](https://form5472.ai/p/amagi-labs-llc) | Form 5472 filing for non-resident LLCs
+- **Estonian e-Residency Office** — [my1office.co ↗](https://my1office.co/en/company/register?ref=mtqymmn) | Estonian company registration
 
 ---
 
@@ -33,8 +38,8 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 |---------|-------------|------|
 | Revolut | Multi-currency digital banking with CRS reporting | [revolut.com](https://revolut.com) |
 | Xapo | Gibraltar-licensed bank combining USD + BTC in one account | [xapobank.com ↗](https://application.xapo.com/membership-application?ref=SUF-QAV-FC) |
-| Bank of Georgia | Leading Georgian bank with SOLO X/Premium private banking | [bankofgeorgia.ge](https://bankofgeorgia.ge) |
-| Wise | Low-fee international transfers and multi-currency accounts | [wise.com ↗](https://wise.com/login?autoLogout=true&redirectUrl=/invite) |
+| Bank of Georgia | Leading Georgian bank with SOLO X/Premium private banking | [bankofgeorgia.ge ↗](https://solo.ge/en/solo/select-referral?referralCode=c45ad8d2-84bd-4f0e-b2e8-4506c5fa7f83) |
+| Wise | Low-fee international transfers and multi-currency accounts | [wise.com](https://wise.com) |
 | Gnosis Pay | Self-custodial DeFi-native Visa card, spend stablecoins onchain | [gnosispay.com ↗](https://gnosispay.com/nonoginvite?rcc=ea874c418ccb&utm_source=referral&utm_campaign=clkbcnsvt000cmk08ekn8tkz6) |
 | Mercury | US business banking built for startups and internet companies | [mercury.com ↗](https://mercury.com/r/amagi-labs-llc) |
 
@@ -44,14 +49,14 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 | Binance | World's largest crypto exchange with P2P marketplace | [binance.com](https://www.binance.com) |
 | Kraken | Major regulated exchange with advanced trading and staking | [kraken.com ↗](https://invite.kraken.com/JDNW/i3xy94c5) |
 | Rabby Wallet | Multi-chain Web3 wallet with built-in security engine | [rabby.io](https://rabby.io) |
-| Firefish | Bitcoin-collateralized loans connecting borrowers with lenders | [firefish.io ↗](https://firefish.io?ref=satoshi1846) |
+| Firefish | Bitcoin-collateralized loans connecting borrowers with lenders (30% off platform fee) | [firefish.io ↗](https://firefish.io?ref=satoshi1846) |
 | Chainflip | Decentralized cross-chain swaps with native asset support | [chainflip.io](https://swap.chainflip.io/) |
 | Trocador | Non-KYC crypto swap aggregator comparing rates across exchanges | [trocador.app](https://trocador.app/en/) |
 
 #### DeFi & Tax
 | Service | Description | Link |
 |---------|-------------|------|
-| EtherFi | DeFi card with up to 3% cashback, liquid staking yields | [ether.fi ↗](https://www.ether.fi/refer/b450e999) |
+| EtherFi | DeFi card with up to 3% cashback, liquid staking yields | [ether.fi ↗](https://app.ether.fi/weeth?address=0xB7f6227F09CF8Bd2C8897c71d3b980F42ac95544) |
 | Gauntlet USD Alpha | Risk-optimized stablecoin vault targeting safe DeFi yields | [gauntlet.xyz](https://app.gauntlet.xyz/vaults/gtusda) |
 | Ethena | USDe synthetic dollar protocol backed by staked ETH | [ethena.fi ↗](https://app.ethena.fi/join/8ci0r) |
 | Resolv | Delta-neutral stablecoin protocol generating yield from funding rates | [resolv.xyz ↗](https://app.resolv.xyz/ref/stancel) |
@@ -75,7 +80,7 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 | Roost Laptop Stand | Ultra-portable laptop stand for ergonomic remote work | [rooststand.com](https://www.therooststand.com/) |
 | Anker PowerCore | High-capacity portable power bank | [anker.com](https://www.anker.com) |
 | SafetyWing | Nomad health insurance with global coverage, monthly billing | [safetywing.com ↗](https://safetywing.com/nomad-insurance/?referenceID=26471883&utm_source=26471883&utm_medium=Ambassador) |
-| Cigna Global | International health insurance for expats and global citizens | [cigna.com](https://www.cignaglobal.com/) |
+| Cigna Global | International health insurance for expats and global citizens | [cigna.com ↗](https://cigna.mention-me.com/m/ol/pw3du-david-stancel) |
 | William Russell | Premium expat insurance with worldwide coverage | [william-russell.com](https://www.william-russell.com) |
 | Genki | Digital nomad insurance designed for location-independent workers | [genki.world](https://genkihealth.co) |
 
@@ -84,12 +89,16 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 | Service | Description | Link |
 |---------|-------------|------|
 | Obscura | Privacy-first VPN service | [obscura.net](https://obscura.net) |
-| ProtonVPN | Swiss encrypted VPN with no-logs policy | [protonvpn.com](https://protonvpn.com) |
+| ProtonVPN | Swiss encrypted VPN with no-logs policy | [protonvpn.com ↗](https://go.getproton.me/aff_c?offer_id=26&aff_id=14494) |
+| Proton Mail | End-to-end encrypted email from Switzerland | [proton.me ↗](https://go.getproton.me/aff_c?offer_id=7&aff_id=14494) |
+| Proton Pass | Encrypted password manager by Proton | [proton.me ↗](https://go.getproton.me/aff_c?offer_id=38&aff_id=14494) |
+| Proton Drive | End-to-end encrypted cloud storage | [proton.me ↗](https://go.getproton.me/aff_c?offer_id=43&aff_id=14494) |
 | Bitwarden | Open-source password manager with end-to-end encryption | [bitwarden.com](https://bitwarden.com) |
 | Dashlane | Password manager with dark web monitoring and VPN | [dashlane.com](https://www.dashlane.com) |
 | Brave | Privacy-focused browser with built-in ad blocker | [brave.com](https://brave.com) |
 | Firefox | Open-source browser with strong privacy protections | [mozilla.org](https://www.mozilla.org/firefox) |
 | Tor Browser | Anonymity browser routing traffic through onion network | [torproject.org](https://www.torproject.org) |
+| Grenzenlos Sicher | International insurance and security consulting | [grenzenlos.co ↗](https://grenzenlos.co/polystate) |
 
 ### 📄 Digital Notary (Notarity)
 
@@ -162,7 +171,7 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 | # | Tool | Description | Link | Polystate |
 |---|------|-------------|------|-----------|
 | 25 | XAPO Bank | Gibraltar-licensed bank combining BTC + USD, 3.6% USD yield | [xapobank.com ↗](https://application.xapo.com/membership-application?ref=SUF-QAV-FC) | ✅ |
-| 26 | Ether.fi | DeFi Visa card with up to 3% cashback in wETH, spend against staked ETH | [ether.fi ↗](https://www.ether.fi/refer/b450e999) | ✅ |
+| 26 | Ether.fi | DeFi Visa card with up to 3% cashback in wETH, spend against staked ETH | [ether.fi ↗](https://app.ether.fi/weeth?address=0xB7f6227F09CF8Bd2C8897c71d3b980F42ac95544) | ✅ |
 | 27 | Gnosis Pay | Self-custodial Visa card spending stablecoins directly from Gnosis Safe | [gnosispay.com ↗](https://gnosispay.com/nonoginvite?rcc=ea874c418ccb&utm_source=referral&utm_campaign=clkbcnsvt000cmk08ekn8tkz6) | ✅ |
 | 28 | Redotpay | Crypto Visa card supporting 130M+ merchants, 6M+ users globally | [redotpay.com](https://www.redotpay.com) | 🆕 |
 | 29 | Cypher HQ | Y Combinator-backed zero-fee crypto card supporting 772 cryptocurrencies | [cypherhq.io](https://cypherhq.io) | 🆕 |
@@ -202,7 +211,7 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 
 | # | Bank | Country | Description | Link | Polystate |
 |---|------|---------|-------------|------|-----------|
-| 44 | Bank of Georgia | Georgia | SOLO X/Premium/Club. Accepts any tax residency except sanctioned countries | [bankofgeorgia.ge](https://bankofgeorgia.ge) | ✅ |
+| 44 | Bank of Georgia | Georgia | SOLO X/Premium/Club. Accepts any tax residency except sanctioned countries | [bankofgeorgia.ge ↗](https://solo.ge/en/solo/select-referral?referralCode=c45ad8d2-84bd-4f0e-b2e8-4506c5fa7f83) | ✅ |
 
 **Recommended non-CRS residency + bank account combinations:**
 
@@ -217,11 +226,11 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 
 | # | Tool | Description | Link | Polystate |
 |---|------|-------------|------|-----------|
-| 45 | AAVE | Non-custodial liquidity protocol for lending and borrowing crypto | [aave.com](https://aave.com) | 🆕 |
+| 45 | AAVE | Non-custodial liquidity protocol for lending and borrowing crypto | [aave.com ↗](https://aave.com/r/81071D) | 🆕 |
 | 46 | Liquity | Governance-free borrowing protocol issuing LUSD against ETH collateral | [liquity.org](https://www.liquity.org) | 🆕 |
 | 47 | Summer.fi | DeFi portal for borrowing, lending, and yield optimization | [summer.fi](https://summer.fi) | 🆕 |
 | 48 | DefiLlama | Open-source DeFi analytics dashboard tracking TVL across all chains | [defillama.com](https://defillama.com) | 🆕 |
-| 49 | Firefish.io | Bitcoin-collateralized loans connecting borrowers with global lenders | [firefish.io ↗](https://firefish.io?ref=satoshi1846) | ✅ |
+| 49 | Firefish.io | Bitcoin-collateralized loans connecting borrowers with global lenders (30% off) | [firefish.io ↗](https://firefish.io?ref=satoshi1846) | ✅ |
 | 50 | Nexo | CeFi platform offering crypto-backed loans, earning, and exchange | [nexo.com](https://nexo.com) | 🆕 |
 | 51 | RESOLV | Delta-neutral stablecoin protocol generating yield from ETH funding rates | [resolv.xyz ↗](https://app.resolv.xyz/ref/stancel) | ✅ |
 | 52 | Gauntlet AlphaUSD | Risk-optimized stablecoin vault by Gauntlet targeting safe DeFi yields | [gauntlet.xyz](https://app.gauntlet.xyz/vaults/gtusda) | ✅ |
@@ -270,9 +279,21 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 
 | # | Tool | Description | Link | Polystate |
 |---|------|-------------|------|-----------|
-| 73 | Palau ID | Republic of Palau digital residency program with blockchain-based ID | [palaudigitalresidency.pw](https://www.palaudigitalresidency.pw) | 🆕 |
-| 74 | Network School | Balaji Srinivasan's online academy and startup society community | [thenetworkstate.com](https://thenetworkstate.com/network-school) | 🆕 |
-| 75 | MSc in Digital Currency | University of Nicosia master's program in blockchain and digital currency | [unic.ac.cy](https://www.unic.ac.cy/blockchain/msc-digital-currency) | 🆕 |
+| 73 | Palau ID | Republic of Palau digital residency program with blockchain-based ID | [rns.id ↗](https://rns.id/?rc_by=bjTbykrf) | 🆕 |
+| 74 | Network School | Balaji Srinivasan's online academy and startup society community | [ns.com ↗](https://ns.com/stanceldavid/apply) | 🆕 |
+| 75 | MSc in Digital Currency | University of Nicosia master's program in blockchain and digital currency | [unic.ac.cy ↗](https://www.unic.ac.cy/iff/education-and-training/master-degrees/msc-in-blockchain-and-digital-currency/?utm_source=david) | 🆕 |
+| 76 | UNIC Certifications | University of Nicosia blockchain certification programs | [unic.ac.cy ↗](https://www.unic.ac.cy/iff/education-and-training/academic-certification/?utm_source=david%20stancel&utm_medium=pr) | 🆕 |
+| 77 | Skool — New Society | AI tools community and learning platform | [skool.com ↗](https://www.skool.com/signup?ref=08cb41d6b2644c0d8b4ce843b4018c8f) | 🆕 |
+
+---
+
+## Developer & Infra Tools
+
+| # | Tool | Description | Link |
+|---|------|-------------|------|
+| 78 | DigitalOcean | Cloud infrastructure for developers | [digitalocean.com ↗](https://m.do.co/c/c322cd790a11) |
+| 79 | Replit | Browser-based IDE for coding and deploying apps | [replit.com ↗](https://replit.com/refer/stanceldavid) |
+| 80 | Startfleet | Startup launch and incorporation platform | [startfleet.io ↗](https://startfleet.io?affp=4zGQy8KCnWXs) |
 
 ---
 
@@ -309,9 +330,10 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 
 | Metric | Count |
 |--------|-------|
-| **Total tools/services** | 75 |
+| **Total tools/services** | 80 |
 | ✅ Already on Polystate | ~15 |
-| 🆕 Not yet on Polystate | ~60 |
+| 🆕 Not yet on Polystate | ~65 |
+| ↗ Affiliate links | ~27 |
 
 ---
 
