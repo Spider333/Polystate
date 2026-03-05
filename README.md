@@ -10,6 +10,12 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 
 ---
 
+### 🤝 Support Polystate
+
+**Many links below are affiliate/referral links.** When you sign up through them, you support the platform at no extra cost to you — and in some cases you get a bonus too. If you find this list useful, using the referral links is the easiest way to say thanks.
+
+---
+
 ## Core Services
 
 - **Residency Programs** — Country-specific residency solutions (Paraguay, Georgia, UAE, and more)
@@ -25,53 +31,53 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 #### Banking
 | Service | Description | Link |
 |---------|-------------|------|
-| Revolut | Multi-currency digital banking with CRS reporting | [revolut.com](https://www.revolut.com) |
-| Xapo | Gibraltar-licensed bank combining USD + BTC in one account | [xapobank.com](https://www.xapobank.com) |
+| Revolut | Multi-currency digital banking with CRS reporting | [revolut.com](https://revolut.com) |
+| Xapo | Gibraltar-licensed bank combining USD + BTC in one account | [xapobank.com ↗](https://application.xapo.com/membership-application?ref=SUF-QAV-FC) |
 | Bank of Georgia | Leading Georgian bank with SOLO X/Premium private banking | [bankofgeorgia.ge](https://bankofgeorgia.ge) |
-| Wise | Low-fee international transfers and multi-currency accounts | [wise.com](https://wise.com) |
-| Gnosis Pay | Self-custodial DeFi-native Visa card, spend stablecoins onchain | [gnosispay.com](https://gnosispay.com) |
-| Mercury | US business banking built for startups and internet companies | [mercury.com](https://mercury.com) |
+| Wise | Low-fee international transfers and multi-currency accounts | [wise.com ↗](https://wise.com/login?autoLogout=true&redirectUrl=/invite) |
+| Gnosis Pay | Self-custodial DeFi-native Visa card, spend stablecoins onchain | [gnosispay.com ↗](https://gnosispay.com/nonoginvite?rcc=ea874c418ccb&utm_source=referral&utm_campaign=clkbcnsvt000cmk08ekn8tkz6) |
+| Mercury | US business banking built for startups and internet companies | [mercury.com ↗](https://mercury.com/r/amagi-labs-llc) |
 
 #### Crypto Platforms
 | Service | Description | Link |
 |---------|-------------|------|
 | Binance | World's largest crypto exchange with P2P marketplace | [binance.com](https://www.binance.com) |
-| Kraken | Major regulated exchange with advanced trading and staking | [kraken.com](https://www.kraken.com) |
+| Kraken | Major regulated exchange with advanced trading and staking | [kraken.com ↗](https://invite.kraken.com/JDNW/i3xy94c5) |
 | Rabby Wallet | Multi-chain Web3 wallet with built-in security engine | [rabby.io](https://rabby.io) |
-| Firefish | Bitcoin-collateralized loans connecting borrowers with lenders | [firefish.io](https://firefish.io) |
-| Chainflip | Decentralized cross-chain swaps with native asset support | [chainflip.io](https://chainflip.io) |
-| Trocador | Non-KYC crypto swap aggregator comparing rates across exchanges | [trocador.app](https://trocador.app) |
+| Firefish | Bitcoin-collateralized loans connecting borrowers with lenders | [firefish.io ↗](https://firefish.io?ref=satoshi1846) |
+| Chainflip | Decentralized cross-chain swaps with native asset support | [chainflip.io](https://swap.chainflip.io/) |
+| Trocador | Non-KYC crypto swap aggregator comparing rates across exchanges | [trocador.app](https://trocador.app/en/) |
 
 #### DeFi & Tax
 | Service | Description | Link |
 |---------|-------------|------|
-| EtherFi | DeFi card with up to 3% cashback, liquid staking yields | [ether.fi](https://www.ether.fi) |
-| Gauntlet USD Alpha | Risk-optimized stablecoin vault targeting safe DeFi yields | [gauntlet.xyz](https://www.gauntlet.xyz) |
-| Ethena | USDe synthetic dollar protocol backed by staked ETH | [ethena.fi](https://ethena.fi) |
-| Resolv | Delta-neutral stablecoin protocol generating yield from funding rates | [resolv.xyz](https://www.resolv.xyz) |
-| Atomic Exchange | Decentralized exchange for trustless BTC and SOL atomic swaps | [atomicexchange.io](https://atomicexchange.io) |
+| EtherFi | DeFi card with up to 3% cashback, liquid staking yields | [ether.fi ↗](https://www.ether.fi/refer/b450e999) |
+| Gauntlet USD Alpha | Risk-optimized stablecoin vault targeting safe DeFi yields | [gauntlet.xyz](https://app.gauntlet.xyz/vaults/gtusda) |
+| Ethena | USDe synthetic dollar protocol backed by staked ETH | [ethena.fi ↗](https://app.ethena.fi/join/8ci0r) |
+| Resolv | Delta-neutral stablecoin protocol generating yield from funding rates | [resolv.xyz ↗](https://app.resolv.xyz/ref/stancel) |
+| Atomic Exchange | Decentralized exchange for trustless BTC and SOL atomic swaps | [atomiq.exchange ↗](https://app.atomiq.exchange/?affiliate=HkGW97WaqA6RNyybjwA28e) |
 
 ### ✈️ Travel
 
 | Service | Description | Link |
 |---------|-------------|------|
-| Airalo | Global eSIM marketplace with coverage in 200+ countries | [airalo.com](https://www.airalo.com) |
-| LNE SIM | Regional eSIM connectivity for travelers | — |
+| Airalo | Global eSIM marketplace with coverage in 200+ countries | [airalo.com ↗](https://airalo.go.link/822vp) |
+| LNE SIM | Regional eSIM connectivity for travelers | [lnesim.com](https://www.lnesim.com/) |
 | JMP | Phone number service for nomads | [jmp.chat](https://jmp.chat) |
-| TextVerified | SMS verification service for online accounts | [textverified.com](https://textverified.com) |
-| SMS Pool | SMS gateway for verification needs | [smspool.net](https://www.smspool.net) |
+| TextVerified | SMS verification service for online accounts | [textverified.com](https://www.textverified.com/) |
+| SMS Pool | SMS gateway for verification needs | [smspool.net ↗](https://smspool.net/?r=Kq9uRwUZ8T) |
 | Best Onward Ticket | Proof-of-onward-travel booking for visa requirements | [bestonwardticket.com](https://bestonwardticket.com) |
 | Anytime Mailbox | Virtual mailbox with real street address worldwide | [anytimemailbox.com](https://www.anytimemailbox.com) |
 | SimpleLogin | Open-source email aliasing to protect your real address | [simplelogin.io](https://simplelogin.io) |
-| MyPokefi | Portable mobile hotspot with global coverage | [mypokefi.com](https://mypokefi.com) |
+| MyPokefi | Portable mobile hotspot with global coverage | [mypokefi.com](https://www.mypokefi.com/) |
 | GL.iNet Beryl AX | Compact travel router with VPN client built in | [gl-inet.com](https://www.gl-inet.com) |
 | Scrubba Wash Bag | Portable wash bag — do laundry anywhere | [thescrubba.com](https://thescrubba.com) |
-| Roost Laptop Stand | Ultra-portable laptop stand for ergonomic remote work | [rooststand.com](https://www.rooststand.com) |
+| Roost Laptop Stand | Ultra-portable laptop stand for ergonomic remote work | [rooststand.com](https://www.therooststand.com/) |
 | Anker PowerCore | High-capacity portable power bank | [anker.com](https://www.anker.com) |
-| SafetyWing | Nomad health insurance with global coverage, monthly billing | [safetywing.com](https://safetywing.com) |
-| Cigna Global | International health insurance for expats and global citizens | [cigna.com](https://www.cigna.com) |
+| SafetyWing | Nomad health insurance with global coverage, monthly billing | [safetywing.com ↗](https://safetywing.com/nomad-insurance/?referenceID=26471883&utm_source=26471883&utm_medium=Ambassador) |
+| Cigna Global | International health insurance for expats and global citizens | [cigna.com](https://www.cignaglobal.com/) |
 | William Russell | Premium expat insurance with worldwide coverage | [william-russell.com](https://www.william-russell.com) |
-| Genki | Digital nomad insurance designed for location-independent workers | [genki.world](https://www.genki.world) |
+| Genki | Digital nomad insurance designed for location-independent workers | [genki.world](https://genkihealth.co) |
 
 ### 🔒 Privacy & Security
 
@@ -113,6 +119,7 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 **Legend:**
 - ✅ = Already on Polystate toolkit
 - 🆕 = Not yet on Polystate
+- ↗ = Affiliate/referral link — supports Polystate at no cost to you
 
 ---
 
@@ -133,7 +140,7 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 
 | # | Tool | Description | Link | Polystate |
 |---|------|-------------|------|-----------|
-| 9 | Trocador.app | Non-KYC crypto swap aggregator comparing rates across exchanges | [trocador.app](https://trocador.app) | ✅ |
+| 9 | Trocador.app | Non-KYC crypto swap aggregator comparing rates across exchanges | [trocador.app](https://trocador.app/en/) | ✅ |
 | 10 | BasicSwapDEX | Privacy-focused DEX using atomic swaps, no intermediaries | [basicswapdex.com](https://basicswapdex.com) | 🆕 |
 | 11 | Exolix | Instant non-custodial crypto exchange with fixed and floating rates | [exolix.com](https://exolix.com) | 🆕 |
 | 12 | SeraiDEX | Decentralized exchange for cross-chain swaps using threshold crypto | [serai.exchange](https://serai.exchange) | 🆕 |
@@ -145,8 +152,8 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 | 18 | Binance P2P | Peer-to-peer crypto marketplace with escrow for local cash trades | [p2p.binance.com](https://p2p.binance.com) | ✅ (Binance) |
 | 19 | Vexl.it | Anonymous peer-to-peer Bitcoin trading app using phone contacts | [vexl.it](https://vexl.it) | 🆕 |
 | 20 | Cryptal.com | Georgian licensed crypto exchange offering trading and payments | [cryptal.com](https://cryptal.com) | 🆕 |
-| 21 | Kraken | Major regulated cryptocurrency exchange with advanced trading and staking | [kraken.com](https://www.kraken.com) | ✅ |
-| 22 | Atomic Exchange | Decentralized exchange for trustless BTC and SOL atomic swaps | [atomicexchange.io](https://atomicexchange.io) | ✅ |
+| 21 | Kraken | Major regulated cryptocurrency exchange with advanced trading and staking | [kraken.com ↗](https://invite.kraken.com/JDNW/i3xy94c5) | ✅ |
+| 22 | Atomic Exchange | Decentralized exchange for trustless BTC and SOL atomic swaps | [atomiq.exchange ↗](https://app.atomiq.exchange/?affiliate=HkGW97WaqA6RNyybjwA28e) | ✅ |
 | 23 | Conceal | Privacy-first anonymous multichain swap service with no KYC | [conceal.exchange](https://conceal.exchange) | 🆕 |
 | 24 | ZKP2P | Zero-knowledge proof based peer-to-peer crypto on/off ramp | [zkp2p.xyz](https://zkp2p.xyz) | 🆕 |
 
@@ -154,9 +161,9 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 
 | # | Tool | Description | Link | Polystate |
 |---|------|-------------|------|-----------|
-| 25 | XAPO Bank | Gibraltar-licensed bank combining BTC + USD, 3.6% USD yield | [xapobank.com](https://www.xapobank.com) | ✅ |
-| 26 | Ether.fi | DeFi Visa card with up to 3% cashback in wETH, spend against staked ETH | [ether.fi](https://www.ether.fi) | ✅ |
-| 27 | Gnosis Pay | Self-custodial Visa card spending stablecoins directly from Gnosis Safe | [gnosispay.com](https://gnosispay.com) | ✅ |
+| 25 | XAPO Bank | Gibraltar-licensed bank combining BTC + USD, 3.6% USD yield | [xapobank.com ↗](https://application.xapo.com/membership-application?ref=SUF-QAV-FC) | ✅ |
+| 26 | Ether.fi | DeFi Visa card with up to 3% cashback in wETH, spend against staked ETH | [ether.fi ↗](https://www.ether.fi/refer/b450e999) | ✅ |
+| 27 | Gnosis Pay | Self-custodial Visa card spending stablecoins directly from Gnosis Safe | [gnosispay.com ↗](https://gnosispay.com/nonoginvite?rcc=ea874c418ccb&utm_source=referral&utm_campaign=clkbcnsvt000cmk08ekn8tkz6) | ✅ |
 | 28 | Redotpay | Crypto Visa card supporting 130M+ merchants, 6M+ users globally | [redotpay.com](https://www.redotpay.com) | 🆕 |
 | 29 | Cypher HQ | Y Combinator-backed zero-fee crypto card supporting 772 cryptocurrencies | [cypherhq.io](https://cypherhq.io) | 🆕 |
 | 30 | Crypto.com | Exchange + Visa card with tiered cashback based on CRO staking | [crypto.com](https://crypto.com) | 🆕 |
@@ -176,7 +183,7 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 
 | # | Tool | Description | Link | Polystate |
 |---|------|-------------|------|-----------|
-| 37 | Revolut | CRS multi-currency digital banking with crypto trading built in | [revolut.com](https://www.revolut.com) | ✅ |
+| 37 | Revolut | CRS multi-currency digital banking with crypto trading built in | [revolut.com](https://revolut.com) | ✅ |
 | 38 | N26 | CRS European fintech bank with free basic account | [n26.com](https://n26.com) | 🆕 |
 | 39 | Zen | CRS banking that accepts Lightning Network deposits | [zen.com](https://www.zen.com) | 🆕 |
 
@@ -214,10 +221,10 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 | 46 | Liquity | Governance-free borrowing protocol issuing LUSD against ETH collateral | [liquity.org](https://www.liquity.org) | 🆕 |
 | 47 | Summer.fi | DeFi portal for borrowing, lending, and yield optimization | [summer.fi](https://summer.fi) | 🆕 |
 | 48 | DefiLlama | Open-source DeFi analytics dashboard tracking TVL across all chains | [defillama.com](https://defillama.com) | 🆕 |
-| 49 | Firefish.io | Bitcoin-collateralized loans connecting borrowers with global lenders | [firefish.io](https://firefish.io) | ✅ |
+| 49 | Firefish.io | Bitcoin-collateralized loans connecting borrowers with global lenders | [firefish.io ↗](https://firefish.io?ref=satoshi1846) | ✅ |
 | 50 | Nexo | CeFi platform offering crypto-backed loans, earning, and exchange | [nexo.com](https://nexo.com) | 🆕 |
-| 51 | RESOLV | Delta-neutral stablecoin protocol generating yield from ETH funding rates | [resolv.xyz](https://www.resolv.xyz) | ✅ |
-| 52 | Gauntlet AlphaUSD | Risk-optimized stablecoin vault by Gauntlet targeting safe DeFi yields | [gauntlet.xyz](https://www.gauntlet.xyz) | ✅ |
+| 51 | RESOLV | Delta-neutral stablecoin protocol generating yield from ETH funding rates | [resolv.xyz ↗](https://app.resolv.xyz/ref/stancel) | ✅ |
+| 52 | Gauntlet AlphaUSD | Risk-optimized stablecoin vault by Gauntlet targeting safe DeFi yields | [gauntlet.xyz](https://app.gauntlet.xyz/vaults/gtusda) | ✅ |
 | 53 | Stake Fish | Professional validator and staking service for ETH and PoS networks | [stake.fish](https://stake.fish) | 🆕 |
 
 ## 9. Travel & Commerce
