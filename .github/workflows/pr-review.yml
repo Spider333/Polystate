@@ -1,4 +1,4 @@
-name: PR Review & Notify
+name: PR Auto-Review
 
 on:
   pull_request:
@@ -18,109 +18,107 @@ jobs:
           fetch-depth: 0
 
       - name: Get PR diff
-        id: diff
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           gh pr diff ${{ github.event.pull_request.number }} > /tmp/pr-diff.txt
-          echo "diff_size=$(wc -l < /tmp/pr-diff.txt)" >> $GITHUB_OUTPUT
 
       - name: Review PR against guardrails
         id: review
         run: |
-          DIFF=$(cat /tmp/pr-diff.txt)
-          TITLE="${{ github.event.pull_request.title }}"
-          BODY="${{ github.event.pull_request.body }}"
-          AUTHOR="${{ github.event.pull_request.user.login }}"
-
           ISSUES=""
           WARNINGS=""
 
-          # Check for affiliate/referral links in community submissions
-          if echo "$DIFF" | grep -iE '(ref=|referral|affiliate|aff_id|utm_source|invite\.)' | grep -E '^\+' > /dev/null 2>&1; then
-            ISSUES="$ISSUES\n- **Affiliate link detected.** Community submissions must not contain affiliate/referral links. Only maintainers may add these."
+          # Only check added lines
+          grep -E '^\+' /tmp/pr-diff.txt > /tmp/additions.txt || true
+
+          # 1. Affiliate/referral links — community PRs must not include these
+          if grep -iE '(ref=|referral|affiliate|aff_id|utm_source|utm_medium|invite\.|\.go\.link)' /tmp/additions.txt > /dev/null 2>&1; then
+            ISSUES="${ISSUES}
+          - **Affiliate link detected.** Community submissions must not contain affiliate/referral links. Only maintainers may add these (see [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md))."
           fi
 
-          # Check for service providers (residency, incorporation, consulting)
-          if echo "$DIFF" | grep -iE '(residency|incorporation|company formation|LLC|tax advisory|consulting|visa service|immigration)' | grep -E '^\+' > /dev/null 2>&1; then
-            ISSUES="$ISSUES\n- **Service provider detected.** This directory covers tools and platforms only. Residency, incorporation, consulting, and tax advisory services are not accepted as community submissions."
+          # 2. Service providers — residency, incorporation, consulting, tax advisory
+          if grep -iE '(residency program|incorporation service|company formation service|tax advisory|consulting firm|visa service|immigration service)' /tmp/additions.txt > /dev/null 2>&1; then
+            ISSUES="${ISSUES}
+          - **Service provider detected.** This directory covers tools and platforms only. Residency, incorporation, consulting, and tax advisory services are not accepted as community submissions."
           fi
 
-          # Check for changes to Polystate Paid Services section
-          if echo "$DIFF" | grep -iE '(Polystate Paid Services|Digital Notary|Intelligence Features)' | grep -E '^\+' > /dev/null 2>&1; then
-            ISSUES="$ISSUES\n- **Polystate Paid Services section modified.** This section is maintained exclusively by Polystate and should not be modified by community contributors."
+          # 3. Polystate Paid Services section — off limits
+          if grep -iE '(## Polystate Paid Services|Digital Notary \(Notarity\)|Intelligence Features)' /tmp/additions.txt > /dev/null 2>&1; then
+            ISSUES="${ISSUES}
+          - **Polystate Paid Services section modified.** This section is maintained exclusively by Polystate and should not be modified by community contributors."
           fi
 
-          # Check for scam/suspicious patterns
-          if echo "$DIFF" | grep -iE '(guaranteed returns|100x|get rich|free money|airdrop claim)' | grep -E '^\+' > /dev/null 2>&1; then
-            ISSUES="$ISSUES\n- **Suspicious content detected.** Entry appears promotional or potentially fraudulent."
+          # 4. Scam / hype patterns
+          if grep -iE '(guaranteed returns|100x|get rich|free money|airdrop claim|double your|risk.free|ponzi)' /tmp/additions.txt > /dev/null 2>&1; then
+            ISSUES="${ISSUES}
+          - **Suspicious content detected.** Entry contains promotional language or potential scam indicators."
           fi
 
-          # Check for proper table format
-          if echo "$DIFF" | grep -E '^\+\|' > /dev/null 2>&1; then
-            if ! echo "$DIFF" | grep -E '^\+\| [0-9]+ \|' > /dev/null 2>&1; then
-              WARNINGS="$WARNINGS\n- **Format check:** Ensure entries follow the numbered table format: \`| # | Tool | Description | Link | Status |\`"
+          # 5. Competing paid services — direct competitors to Polystate core offerings
+          if grep -iE '(paraguay residency|panama residency|georgia residency|prospera residency|LLC formation|company registration|e-residency)' /tmp/additions.txt > /dev/null 2>&1; then
+            ISSUES="${ISSUES}
+          - **Competing service detected.** Submissions that directly compete with Polystate's paid services (residency programs, company formation) are not accepted in the community directory."
+          fi
+
+          # 6. Proper table format in community directory section
+          if grep -E '^\+\|' /tmp/additions.txt > /dev/null 2>&1; then
+            if ! grep -E '^\+\| [0-9]' /tmp/additions.txt > /dev/null 2>&1; then
+              WARNINGS="${WARNINGS}
+          - **Format check:** Ensure entries follow the numbered table format: \`| # | Tool Name | Description | [link](url) | Status |\`"
             fi
           fi
 
-          # Check if link is provided
-          if echo "$DIFF" | grep -E '^\+\|' | grep -vE '\[.*\]\(http' > /dev/null 2>&1; then
-            WARNINGS="$WARNINGS\n- **Missing link:** Some entries may be missing a clickable URL."
+          # 7. Missing clickable link
+          if grep -E '^\+\|.*\|.*\|.*\|' /tmp/additions.txt | grep -vE '\[.*\]\(http' > /dev/null 2>&1; then
+            WARNINGS="${WARNINGS}
+          - **Missing link:** Some entries may be missing a clickable URL in markdown format."
           fi
 
-          # Build review comment
+          # 8. Duplicate tool check — see if tool name already exists in README
+          NEW_TOOLS=$(grep -oP '^\+\| [0-9]+ \| \K[^|]+' /tmp/additions.txt 2>/dev/null | sed 's/^ *//;s/ *$//' || true)
+          if [ -n "$NEW_TOOLS" ]; then
+            while IFS= read -r tool; do
+              if [ -n "$tool" ] && grep -qi "| ${tool} |" README.md 2>/dev/null; then
+                WARNINGS="${WARNINGS}
+          - **Possible duplicate:** \"${tool}\" may already exist in the directory."
+              fi
+            done <<< "$NEW_TOOLS"
+          fi
+
+          # Build the review comment
           if [ -n "$ISSUES" ]; then
-            STATUS="CHANGES_REQUESTED"
-            COMMENT="## PR Auto-Review\n\n**Issues found — this PR needs changes before it can be merged:**\n$ISSUES"
+            {
+              echo "## PR Auto-Review"
+              echo ""
+              echo "**Issues found — this PR needs changes before it can be merged:**"
+              echo "$ISSUES"
+              echo ""
+              echo "Please fix these issues and update your PR. See [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md) for guidelines."
+            } > /tmp/review-comment.txt
+            echo "status=BLOCKED" >> $GITHUB_OUTPUT
           elif [ -n "$WARNINGS" ]; then
-            STATUS="OK_WITH_WARNINGS"
-            COMMENT="## PR Auto-Review\n\n**No blocking issues.** A few things to double-check:\n$WARNINGS\n\n*A maintainer will review this shortly.*"
+            {
+              echo "## PR Auto-Review"
+              echo ""
+              echo "**No blocking issues.** A few things to double-check:"
+              echo "$WARNINGS"
+              echo ""
+              echo "A maintainer will review this shortly."
+            } > /tmp/review-comment.txt
+            echo "status=WARNINGS" >> $GITHUB_OUTPUT
           else
-            STATUS="CLEAN"
-            COMMENT="## PR Auto-Review\n\n**Looks good!** No guardrail violations detected. A maintainer will review this shortly."
+            {
+              echo "## PR Auto-Review"
+              echo ""
+              echo "**Looks good!** No guardrail violations detected. A maintainer will review this shortly."
+            } > /tmp/review-comment.txt
+            echo "status=CLEAN" >> $GITHUB_OUTPUT
           fi
-
-          # Escape for GitHub Actions output
-          echo "status=$STATUS" >> $GITHUB_OUTPUT
-          printf '%s' "$COMMENT" > /tmp/review-comment.txt
 
       - name: Post review comment
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          COMMENT=$(cat /tmp/review-comment.txt)
-          printf "$COMMENT" | gh pr comment ${{ github.event.pull_request.number }} --body-file -
-
-      - name: Notify via Resend
-        if: always()
-        env:
-          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-        run: |
-          STATUS="${{ steps.review.outputs.status }}"
-          PR_TITLE="${{ github.event.pull_request.title }}"
-          PR_URL="${{ github.event.pull_request.html_url }}"
-          PR_AUTHOR="${{ github.event.pull_request.user.login }}"
-          PR_NUMBER="${{ github.event.pull_request.number }}"
-
-          if [ "$STATUS" = "CHANGES_REQUESTED" ]; then
-            EMOJI="🚨"
-            SUBJECT="$EMOJI PR #$PR_NUMBER needs attention: $PR_TITLE"
-          elif [ "$STATUS" = "OK_WITH_WARNINGS" ]; then
-            EMOJI="⚠️"
-            SUBJECT="$EMOJI PR #$PR_NUMBER has warnings: $PR_TITLE"
-          else
-            EMOJI="✅"
-            SUBJECT="$EMOJI PR #$PR_NUMBER looks clean: $PR_TITLE"
-          fi
-
-          REVIEW_COMMENT=$(cat /tmp/review-comment.txt | sed 's/"/\\"/g' | sed ':a;N;$!ba;s/\n/\\n/g')
-
-          curl -s -X POST 'https://api.resend.com/emails' \
-            -H "Authorization: Bearer $RESEND_API_KEY" \
-            -H 'Content-Type: application/json' \
-            -d "{
-              \"from\": \"Polystate Services <notifications@polystate.io>\",
-              \"to\": [\"david@polystate.io\"],
-              \"subject\": \"$SUBJECT\",
-              \"html\": \"<h2>New PR on Polystate-Services</h2><p><strong>PR:</strong> <a href='$PR_URL'>#$PR_NUMBER — $PR_TITLE</a></p><p><strong>Author:</strong> $PR_AUTHOR</p><p><strong>Auto-review:</strong> $STATUS</p><pre>$REVIEW_COMMENT</pre><p><a href='$PR_URL'>Review on GitHub →</a></p>\"
-            }"
+          gh pr comment ${{ github.event.pull_request.number }} --body-file /tmp/review-comment.txt
