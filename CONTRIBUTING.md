@@ -45,6 +45,7 @@ We accept tools that:
 
 We do NOT accept:
 
+- **Service providers** (residency, incorporation, consulting, tax advisory) — this directory covers tools and platforms only. The "Polystate Paid Services" section is maintained exclusively by Polystate
 - Defunct or abandoned projects
 - Tools with no clear use case for crypto nomads
 - Duplicate entries (check existing list first)
