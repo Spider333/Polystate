@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "name": "Polystate Services — Crypto Nomad Tools",
+    "description": "Community-maintained directory of crypto and fintech tools for digital nomads",
+    "url": "https://github.com/Spider333/Polystate-Services",
+    "last_updated": "2026-03-09",
+    "total_tools": 97,
+    "license": "CC-BY-SA-4.0"
+  },
+  "categories": [
+    {
+      "id": "wallets",
+      "name": "Wallets & Hardware",
+      "tools": [
+        { "id": 1, "name": "Phoenix", "description": "Self-custodial Lightning wallet with automatic channel management. Not available in the US", "url": "https://phoenix.acinq.co", "pick": false, "on_polystate": false },
+        { "id": 2, "name": "Zeus", "description": "Self-custodial Lightning wallet that connects to your own node", "url": "https://zeusln.com", "pick": false, "on_polystate": false },
+        { "id": 3, "name": "Breez", "description": "Lightning wallet and SDK provider with built-in point-of-sale", "url": "https://breez.technology", "pick": false, "on_polystate": false },
+        { "id": 4, "name": "AlbyHub", "description": "Self-custodial Lightning node-in-a-box with NWC app connections", "url": "https://albyhub.com", "pick": false, "on_polystate": false },
+        { "id": 5, "name": "Zodl (formerly Zashi)", "description": "Zcash wallet with shielded private transactions by default", "url": "https://zashi.app", "pick": false, "on_polystate": false },
+        { "id": 6, "name": "Decaf Wallet", "description": "Stablecoin wallet enabling cash-in/cash-out via MoneyGram worldwide", "url": "https://www.decaf.so", "pick": false, "on_polystate": false },
+        { "id": 7, "name": "Trezor", "description": "Pioneer open-source hardware wallet for secure offline crypto storage", "url": "https://trezor.io", "pick": true, "on_polystate": false },
+        { "id": 8, "name": "Keystone 3 Pro", "description": "Air-gapped hardware wallet with QR code signing, multi-chain support", "url": "https://keyst.one", "pick": false, "on_polystate": false },
+        { "id": 9, "name": "Wasabi Wallet", "description": "Bitcoin wallet with built-in CoinJoin for transaction privacy and Tor integration", "url": "https://wasabiwallet.io", "pick": false, "on_polystate": false }
+      ]
+    },
+    {
+      "id": "exchanges",
+      "name": "Exchanges & Swap Platforms",
+      "tools": [
+        { "id": 10, "name": "Trocador.app", "description": "Non-KYC crypto swap aggregator comparing rates across exchanges", "url": "https://trocador.app/en/", "pick": true, "on_polystate": true },
+        { "id": 11, "name": "BasicSwapDEX", "description": "Privacy-focused DEX using atomic swaps, no intermediaries", "url": "https://basicswapdex.com", "pick": false, "on_polystate": false },
+        { "id": 12, "name": "Exolix", "description": "Instant non-custodial crypto exchange with fixed and floating rates", "url": "https://exolix.com", "pick": false, "on_polystate": false },
+        { "id": 13, "name": "SeraiDEX", "description": "Decentralized exchange for cross-chain swaps using threshold crypto", "url": "https://serai.exchange", "pick": false, "on_polystate": false },
+        { "id": 14, "name": "Haveno", "description": "Private, decentralized Monero-based peer-to-peer fiat-to-crypto exchange", "url": "https://haveno.exchange", "pick": false, "on_polystate": false },
+        { "id": 15, "name": "Boltz.Exchange", "description": "Non-custodial Bitcoin swaps between Lightning, onchain, and Liquid", "url": "https://boltz.exchange", "pick": false, "on_polystate": false },
+        { "id": 16, "name": "Bisq", "description": "Decentralized peer-to-peer Bitcoin exchange, no registration or KYC", "url": "https://bisq.network", "pick": true, "on_polystate": false },
+        { "id": 17, "name": "ThorSwap", "description": "Cross-chain DEX aggregator powered by THORChain for native swaps. Lending/savers paused since early 2025", "url": "https://thorswap.finance", "pick": false, "on_polystate": false },
+        { "id": 18, "name": "SimpleSwap", "description": "Instant cryptocurrency exchange supporting 1500+ coins, no registration. FCA warning for UK users", "url": "https://simpleswap.io", "pick": false, "on_polystate": false },
+        { "id": 19, "name": "Binance P2P", "description": "Peer-to-peer crypto marketplace with escrow for local cash trades", "url": "https://p2p.binance.com", "pick": true, "on_polystate": true },
+        { "id": 20, "name": "Vexl.it", "description": "Anonymous peer-to-peer Bitcoin trading app using phone contacts", "url": "https://vexl.it", "pick": false, "on_polystate": false },
+        { "id": 21, "name": "Cryptal.com", "description": "Georgian licensed crypto exchange offering trading and payments", "url": "https://cryptal.com", "pick": false, "on_polystate": false },
+        { "id": 22, "name": "Kraken", "description": "Major regulated cryptocurrency exchange with advanced trading and staking", "url": "https://kraken.com", "pick": true, "on_polystate": true, "affiliate_url": "https://invite.kraken.com/JDNW/i3xy94c5" },
+        { "id": 23, "name": "Atomic Exchange", "description": "Decentralized exchange for trustless BTC and SOL atomic swaps", "url": "https://atomiq.exchange", "pick": false, "on_polystate": true, "affiliate_url": "https://app.atomiq.exchange/?affiliate=HkGW97WaqA6RNyybjwA28e" },
+        { "id": 24, "name": "Conceal", "description": "Privacy-first anonymous multichain swap service with no KYC", "url": "https://conceal.exchange", "pick": false, "on_polystate": false },
+        { "id": 25, "name": "Peer (formerly ZKP2P)", "description": "Zero-knowledge proof based peer-to-peer crypto on/off ramp", "url": "https://peer.xyz", "pick": false, "on_polystate": false },
+        { "id": 26, "name": "Peach Bitcoin", "description": "Mobile P2P Bitcoin trading app, no KYC, cash trades supported", "url": "https://peachbitcoin.com", "pick": false, "on_polystate": false },
+        { "id": 27, "name": "RoboSats", "description": "Tor-exclusive Lightning-based P2P exchange, sub-5 minute trades", "url": "https://robosats.com", "pick": false, "on_polystate": false },
+        { "id": 28, "name": "Hodl Hodl", "description": "Non-custodial P2P Bitcoin exchange with escrow, no KYC", "url": "https://hodlhodl.com", "pick": false, "on_polystate": false }
+      ]
+    },
+    {
+      "id": "cards",
+      "name": "Crypto Cards & Payment",
+      "tools": [
+        { "id": 29, "name": "XAPO Bank", "description": "Gibraltar-licensed bank combining BTC + USD with USD yield", "url": "https://xapobank.com", "pick": true, "on_polystate": true, "affiliate_url": "https://application.xapo.com/membership-application?ref=SUF-QAV-FC" },
+        { "id": 30, "name": "Ether.fi", "description": "DeFi neobank with Visa card, up to 3% cashback in wETH, spend against staked ETH", "url": "https://ether.fi", "pick": false, "on_polystate": true, "affiliate_url": "https://app.ether.fi/weeth?address=0xB7f6227F09CF8Bd2C8897c71d3b980F42ac95544" },
+        { "id": 31, "name": "Gnosis Pay", "description": "Self-custodial Visa card spending stablecoins directly from Gnosis Safe", "url": "https://gnosispay.com", "pick": true, "on_polystate": true, "affiliate_url": "https://gnosispay.com/nonoginvite?rcc=ea874c418ccb&utm_source=referral&utm_campaign=clkbcnsvt000cmk08ekn8tkz6" },
+        { "id": 32, "name": "Redotpay", "description": "Crypto Visa card supporting 130M+ merchants, 6M+ users globally", "url": "https://www.redotpay.com", "pick": false, "on_polystate": false },
+        { "id": 33, "name": "Cypher HQ", "description": "Y Combinator-backed zero-fee crypto card supporting 772 cryptocurrencies", "url": "https://cypherhq.io", "pick": false, "on_polystate": false },
+        { "id": 34, "name": "Crypto.com", "description": "Exchange + Visa card with tiered cashback based on CRO staking", "url": "https://crypto.com", "pick": false, "on_polystate": false },
+        { "id": 35, "name": "Lulubit", "description": "Panama/Central America crypto platform with Mastercard debit card", "url": "https://www.lulubit.app", "pick": false, "on_polystate": false },
+        { "id": 36, "name": "Lemon.me", "description": "Argentine crypto fintech with card and Mercado Pago integration", "url": "https://www.lemon.me", "pick": false, "on_polystate": false },
+        { "id": 37, "name": "Bybit Card", "description": "Visa debit card with up to 10% BTC cashback, no annual fees", "url": "https://www.bybit.com", "pick": false, "on_polystate": false },
+        { "id": 38, "name": "Nexo Card", "description": "Dual-mode card (credit + debit), borrow against crypto without selling, up to 2% cashback", "url": "https://nexo.com", "pick": false, "on_polystate": false },
+        { "id": 39, "name": "Holyheld", "description": "Mastercard supporting 1,200+ tokens across 17+ blockchains, 0.5% USDC cashback", "url": "https://holyheld.com", "pick": false, "on_polystate": false }
+      ]
+    },
+    {
+      "id": "sepa",
+      "name": "SEPA & Fiat Bridge Services",
+      "tools": [
+        { "id": 40, "name": "Jeton.com", "description": "Crypto-to-SEPA service with best rates, 2000 EUR/month limit", "url": "https://www.jeton.com", "pick": false, "on_polystate": false },
+        { "id": 41, "name": "Uglycash", "description": "SEPA-friendly crypto off-ramp service", "url": "https://uglycash.com", "pick": false, "on_polystate": false },
+        { "id": 42, "name": "Bringin.xyz", "description": "Pay SEPA bills via Bitcoin Lightning, 15 EUR minimum", "url": "https://bringin.xyz", "pick": false, "on_polystate": false },
+        { "id": 43, "name": "Strike", "description": "Lightning payments app, accepts LN deposits, easy fiat bridge", "url": "https://strike.me", "pick": false, "on_polystate": false }
+      ]
+    },
+    {
+      "id": "banking",
+      "name": "Digital Banking & Fintech",
+      "tools": [
+        { "id": 44, "name": "Revolut", "description": "CRS multi-currency digital banking with crypto trading built in. MiCA-licensed (Oct 2025)", "url": "https://revolut.com", "pick": true, "on_polystate": true },
+        { "id": 45, "name": "N26", "description": "CRS European fintech bank with free basic account. Under BaFin regulatory oversight", "url": "https://n26.com", "pick": false, "on_polystate": false },
+        { "id": 46, "name": "Zen", "description": "CRS banking that accepts Lightning Network deposits", "url": "https://www.zen.com", "pick": false, "on_polystate": false }
+      ]
+    },
+    {
+      "id": "non-crs-banks",
+      "name": "Non-CRS Bank Accounts (Privacy Banking)",
+      "tools": [
+        { "id": 47, "name": "Bakai.kg", "description": "Commercial bank with VISA Infinite card available", "url": "https://www.bakai.kg", "country": "Kyrgyzstan", "pick": false, "on_polystate": false },
+        { "id": 48, "name": "ABank (formerly Aiyl Bank)", "description": "Bank focused on agricultural and rural microfinance, renamed 2026", "url": "https://www.aiylbank.kg", "country": "Kyrgyzstan", "pick": false, "on_polystate": false },
+        { "id": 49, "name": "Cambodian banks", "description": "Remote opening available, non-CRS jurisdiction", "url": null, "country": "Cambodia", "pick": false, "on_polystate": false },
+        { "id": 50, "name": "Familiar / ITAU / UENO", "description": "Local banks requiring cedula residency", "url": null, "country": "Paraguay", "pick": false, "on_polystate": false }
+      ]
+    },
+    {
+      "id": "crs-strategy",
+      "name": "CRS Bank with Non-CRS Residency Strategy",
+      "tools": [
+        { "id": 51, "name": "Bank of Georgia", "description": "SOLO X/Premium/Club. Accepts any tax residency except sanctioned countries", "url": "https://bankofgeorgia.ge", "country": "Georgia", "pick": true, "on_polystate": true, "affiliate_url": "https://solo.ge/en/solo/select-referral?referralCode=c45ad8d2-84bd-4f0e-b2e8-4506c5fa7f83" }
+      ]
+    },
+    {
+      "id": "defi",
+      "name": "DeFi, Lending & Yield",
+      "tools": [
+        { "id": 52, "name": "AAVE", "description": "Non-custodial liquidity protocol for lending and borrowing crypto", "url": "https://aave.com", "pick": true, "on_polystate": false, "affiliate_url": "https://aave.com/r/81071D" },
+        { "id": 53, "name": "Liquity", "description": "Governance-free borrowing protocol issuing LUSD against ETH collateral. V2 redeployed May 2025 after vulnerability fix", "url": "https://www.liquity.org", "pick": false, "on_polystate": false },
+        { "id": 54, "name": "Lazy Summer (formerly Summer.fi)", "description": "DeFi yield optimization protocol. Former borrow/multiply product migrated to DeFi Saver", "url": "https://lazysummer.xyz", "pick": false, "on_polystate": false },
+        { "id": 55, "name": "DefiLlama", "description": "Open-source DeFi analytics dashboard tracking TVL across all chains", "url": "https://defillama.com", "pick": true, "on_polystate": false },
+        { "id": 56, "name": "Firefish.io", "description": "Bitcoin-collateralized loans connecting borrowers with global lenders (30% off)", "url": "https://firefish.io", "pick": true, "on_polystate": true, "affiliate_url": "https://firefish.io?ref=satoshi1846" },
+        { "id": 57, "name": "Nexo", "description": "CeFi platform offering crypto-backed loans, earning, and exchange. Re-entered US market Feb 2026", "url": "https://nexo.com", "pick": false, "on_polystate": false },
+        { "id": 58, "name": "RESOLV", "description": "Delta-neutral stablecoin protocol generating yield from ETH funding rates", "url": "https://resolv.xyz", "pick": false, "on_polystate": true, "affiliate_url": "https://app.resolv.xyz/ref/stancel" },
+        { "id": 59, "name": "Gauntlet AlphaUSD", "description": "Risk-optimized stablecoin vault by Gauntlet targeting safe DeFi yields", "url": "https://app.gauntlet.xyz/vaults/gtusda", "pick": false, "on_polystate": true },
+        { "id": 60, "name": "Stake Fish", "description": "Professional validator and staking service for ETH and PoS networks", "url": "https://stake.fish", "pick": false, "on_polystate": false },
+        { "id": 61, "name": "Zerion", "description": "Multi-chain DeFi portfolio tracker + wallet, tracks positions across all chains", "url": "https://zerion.io", "pick": false, "on_polystate": false },
+        { "id": 62, "name": "DeBank", "description": "DeFi portfolio tracker with best protocol detection for lending, LP, and staking positions", "url": "https://debank.com", "pick": false, "on_polystate": false }
+      ]
+    },
+    {
+      "id": "tax",
+      "name": "Tax & Accounting",
+      "tools": [
+        { "id": 63, "name": "Koinly", "description": "Leading crypto tax software, 170 blockchains, 400+ exchanges, reports for 20+ jurisdictions", "url": "https://koinly.io", "pick": true, "on_polystate": false },
+        { "id": 64, "name": "CoinTracker", "description": "Portfolio tracking + tax reporting with deep Coinbase integration", "url": "https://www.cointracker.io", "pick": false, "on_polystate": false },
+        { "id": 65, "name": "CoinLedger", "description": "Simplified crypto tax reporting, integrates with TurboTax/TaxAct", "url": "https://coinledger.io", "pick": false, "on_polystate": false }
+      ]
+    },
+    {
+      "id": "payroll",
+      "name": "Payroll & Invoicing",
+      "tools": [
+        { "id": 66, "name": "Bitwage", "description": "Receive salary in BTC, ETH, or stablecoins — bridges traditional payroll to crypto", "url": "https://www.bitwage.com", "pick": false, "on_polystate": false },
+        { "id": 67, "name": "Request Finance", "description": "Crypto invoicing for freelancers, 100+ tokens, $450M+ processed", "url": "https://www.request.finance", "pick": true, "on_polystate": false },
+        { "id": 68, "name": "Rise", "description": "Stablecoin payroll across 190+ countries, $2.50/transaction", "url": "https://www.riseworks.io", "pick": false, "on_polystate": false }
+      ]
+    },
+    {
+      "id": "onramp",
+      "name": "On/Off-Ramp",
+      "tools": [
+        { "id": 69, "name": "MoonPay", "description": "Fiat on/off-ramp integrated into 100+ wallets and dApps, 160+ countries", "url": "https://www.moonpay.com", "pick": true, "on_polystate": false },
+        { "id": 70, "name": "Transak", "description": "Fiat-to-crypto on-ramp with MetaMask integration, 160+ countries, flat 1% fee", "url": "https://transak.com", "pick": false, "on_polystate": false },
+        { "id": 71, "name": "Ramp Network", "description": "Buy-crypto buttons inside DeFi apps, instant SEPA support in Europe", "url": "https://ramp.network", "pick": false, "on_polystate": false }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "Travel & Commerce",
+      "tools": [
+        { "id": 72, "name": "Travala.com", "description": "Book hotels, flights, and activities paying with 100+ cryptos", "url": "https://www.travala.com", "pick": true, "on_polystate": false },
+        { "id": 73, "name": "Destinia", "description": "Spanish travel agency accepting Bitcoin for flights and hotels", "url": "https://www.destinia.com", "pick": false, "on_polystate": false },
+        { "id": 74, "name": "Wirex Travel", "description": "Multi-currency card and app for crypto-funded travel spending", "url": "https://www.wirex.com", "pick": false, "on_polystate": false },
+        { "id": 75, "name": "XcelTrip", "description": "Decentralized travel platform booking hotels and flights with crypto", "url": "https://www.xceltrip.com", "pick": false, "on_polystate": false },
+        { "id": 76, "name": "ShopinBit", "description": "European online shop accepting Bitcoin and crypto for everyday products", "url": "https://www.shopinbit.com", "pick": false, "on_polystate": false },
+        { "id": 77, "name": "BitRefill", "description": "Buy gift cards, eSIMs, and phone top-ups with cryptocurrency", "url": "https://www.bitrefill.com", "pick": true, "on_polystate": false }
+      ]
+    },
+    {
+      "id": "cash",
+      "name": "Cash Access",
+      "tools": [
+        { "id": 78, "name": "CoinATMRadar", "description": "Worldwide map and directory of Bitcoin and crypto ATM locations", "url": "https://coinatmradar.com", "pick": true, "on_polystate": false },
+        { "id": 79, "name": "Decaf Wallet", "description": "Solana wallet enabling Moneygram cash withdrawals from stablecoins", "url": "https://www.decaf.so", "pick": false, "on_polystate": false },
+        { "id": 80, "name": "Western Union", "description": "Global money transfer service for sending and receiving cash", "url": "https://www.westernunion.com", "pick": false, "on_polystate": false },
+        { "id": 81, "name": "Meru", "description": "Pay Latin American bills and utilities using crypto and stablecoins", "url": "https://www.meru.life", "pick": false, "on_polystate": false }
+      ]
+    },
+    {
+      "id": "privacy",
+      "name": "Privacy & Security",
+      "tools": [
+        { "id": 82, "name": "Tornado Cash", "description": "Decentralized privacy protocol for Ethereum transactions. US sanctions lifted March 2025, legal status evolving", "url": "https://tornadocash.eth.link", "pick": false, "on_polystate": false },
+        { "id": 83, "name": "Signal", "description": "Open-source end-to-end encrypted messaging and calling app", "url": "https://signal.org", "pick": true, "on_polystate": false },
+        { "id": 84, "name": "Session", "description": "Onion-routed messenger requiring no phone number or personal data", "url": "https://getsession.org", "pick": false, "on_polystate": false },
+        { "id": 85, "name": "SimpleX", "description": "Decentralized messenger with no user identifiers, not even random IDs", "url": "https://simplex.chat", "pick": true, "on_polystate": false },
+        { "id": 86, "name": "Threema", "description": "Swiss encrypted messenger that works without a phone number", "url": "https://threema.ch", "pick": false, "on_polystate": false },
+        { "id": 87, "name": "Mobimatter", "description": "eSIM marketplace offering prepaid data plans with minimal identity needs", "url": "https://www.mobimatter.com", "pick": false, "on_polystate": false },
+        { "id": 88, "name": "Mullvad VPN", "description": "No-logs VPN accepting BTC, XMR, Lightning, and cash. No personal info required", "url": "https://mullvad.net", "pick": true, "on_polystate": false },
+        { "id": 89, "name": "Silent Link", "description": "Zero-KYC eSIM provider, pay via Bitcoin/Lightning, anonymous mobile data in 100+ countries", "url": "https://silent.link", "pick": true, "on_polystate": false }
+      ]
+    },
+    {
+      "id": "directories",
+      "name": "Research & Directories",
+      "tools": [
+        { "id": 90, "name": "KYCNotMe", "description": "Curated directory of services that don't require identity verification", "url": "https://kycnot.me", "pick": true, "on_polystate": false },
+        { "id": 91, "name": "Monerica", "description": "Directory of merchants, services, and exchanges accepting Monero", "url": "https://monerica.com", "pick": false, "on_polystate": false },
+        { "id": 92, "name": "XMRBazaar", "description": "Peer-to-peer marketplace for goods and services paid in Monero", "url": "https://xmrbazaar.com", "pick": false, "on_polystate": false }
+      ]
+    },
+    {
+      "id": "education",
+      "name": "Education & Community",
+      "tools": [
+        { "id": 93, "name": "Palau ID", "description": "Republic of Palau digital residency program with blockchain-based ID", "url": "https://rns.id", "pick": false, "on_polystate": false, "affiliate_url": "https://rns.id/?rc_by=bjTbykrf" },
+        { "id": 94, "name": "Network School", "description": "Balaji Srinivasan's online academy and startup society community", "url": "https://ns.com", "pick": true, "on_polystate": false, "affiliate_url": "https://ns.com/stanceldavid/apply" },
+        { "id": 95, "name": "MSc in Digital Currency", "description": "University of Nicosia master's program in blockchain and digital currency", "url": "https://www.unic.ac.cy", "pick": false, "on_polystate": false, "affiliate_url": "https://www.unic.ac.cy/iff/education-and-training/master-degrees/msc-in-blockchain-and-digital-currency/?utm_source=david" },
+        { "id": 96, "name": "UNIC Certifications", "description": "University of Nicosia blockchain certification programs", "url": "https://www.unic.ac.cy", "pick": false, "on_polystate": false, "affiliate_url": "https://www.unic.ac.cy/iff/education-and-training/academic-certification/?utm_source=david%20stancel&utm_medium=pr" },
+        { "id": 97, "name": "Skool — New Society", "description": "AI tools community and learning platform", "url": "https://www.skool.com", "pick": false, "on_polystate": false, "affiliate_url": "https://www.skool.com/signup?ref=08cb41d6b2644c0d8b4ce843b4018c8f" }
+      ]
+    }
+  ]
+}
