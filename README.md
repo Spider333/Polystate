@@ -100,7 +100,7 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 | Binance | World's largest crypto exchange with P2P marketplace | [binance.com](https://www.binance.com) |
 | Kraken | Major regulated exchange with advanced trading and staking | [kraken.com ↗](https://invite.kraken.com/JDNW/i3xy94c5) |
 | Rabby Wallet | Multi-chain Web3 wallet with built-in security engine | [rabby.io](https://rabby.io) |
-| Firefish | Bitcoin-collateralized loans connecting borrowers with lenders (30% off platform fee) | [firefish.io ↗](https://firefish.io?ref=satoshi1846) |
+| Firefish | Bitcoin-collateralized loans connecting borrowers with lenders (30% off platform fee) | [firefish.io ↗](https://firefish.io?ref=POLYSTATE) |
 | Chainflip | Decentralized cross-chain swaps with native asset support | [chainflip.io](https://swap.chainflip.io/) |
 | Trocador | Non-KYC crypto swap aggregator comparing rates across exchanges | [trocador.app](https://trocador.app/en/) |
 
@@ -277,7 +277,7 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 | 53 | Liquity | Governance-free borrowing protocol issuing LUSD against ETH collateral. V2 redeployed May 2025 after vulnerability fix | [liquity.org](https://www.liquity.org) | 🆕 |
 | 54 | Lazy Summer (formerly Summer.fi) | DeFi yield optimization protocol. Former borrow/multiply product migrated to DeFi Saver | [lazysummer.xyz](https://lazysummer.xyz) | 🆕 |
 | 55 | ⭐ DefiLlama | Open-source DeFi analytics dashboard tracking TVL across all chains | [defillama.com](https://defillama.com) | 🆕 |
-| 56 | ⭐ Firefish.io | Bitcoin-collateralized loans connecting borrowers with global lenders (30% off) | [firefish.io ↗](https://firefish.io?ref=satoshi1846) | ✅ |
+| 56 | ⭐ Firefish.io | Bitcoin-collateralized loans connecting borrowers with global lenders (30% off) | [firefish.io ↗](https://firefish.io?ref=POLYSTATE) | ✅ |
 | 57 | Nexo | CeFi platform offering crypto-backed loans, earning, and exchange. Re-entered US market Feb 2026 | [nexo.com](https://nexo.com) | 🆕 |
 | 58 | RESOLV | Delta-neutral stablecoin protocol generating yield from ETH funding rates | [resolv.xyz ↗](https://app.resolv.xyz/ref/stancel) | ✅ |
 | 59 | Gauntlet AlphaUSD | Risk-optimized stablecoin vault by Gauntlet targeting safe DeFi yields | [gauntlet.xyz](https://app.gauntlet.xyz/vaults/gtusda) | ✅ |
