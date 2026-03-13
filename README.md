@@ -80,9 +80,9 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 
 | Service | Description | Link |
 |---------|-------------|------|
-| Revolut | Multi-currency digital banking with CRS reporting | [revolut.com](https://revolut.com) |
-| Xapo | Gibraltar-licensed bank combining USD + BTC in one account | [xapobank.com ↗](https://application.xapo.com/membership-application?ref=SUF-QAV-FC) |
-| Bank of Georgia | Leading Georgian bank with SOLO X/Premium private banking | [bankofgeorgia.ge ↗](https://solo.ge/en/solo/select-referral?referralCode=c45ad8d2-84bd-4f0e-b2e8-4506c5fa7f83) |
+| Revolut | CRS multi-currency digital banking with crypto trading built in. MiCA-licensed | [revolut.com](https://revolut.com) |
+| Xapo | Gibraltar-licensed bank combining BTC + USD with USD yield | [xapobank.com ↗](https://application.xapo.com/membership-application?ref=SUF-QAV-FC) |
+| Bank of Georgia | SOLO X/Premium/Club. Accepts any tax residency except sanctioned countries | [bankofgeorgia.ge ↗](https://solo.ge/en/solo/select-referral?referralCode=c45ad8d2-84bd-4f0e-b2e8-4506c5fa7f83) |
 | Wise | Low-fee international transfers and multi-currency accounts | [wise.com](https://wise.com) |
 | Mercury | US business banking built for startups and internet companies | [mercury.com ↗](https://mercury.com/r/amagi-labs-llc) |
 
@@ -91,16 +91,16 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 | Service | Description | Link |
 |---------|-------------|------|
 | Gnosis Pay | Self-custodial Visa card spending stablecoins directly from Gnosis Safe | [gnosispay.com ↗](https://gnosispay.com/nonoginvite?rcc=ea874c418ccb&utm_source=referral&utm_campaign=clkbcnsvt000cmk08ekn8tkz6) |
-| EtherFi | DeFi neobank with Visa card, up to 3% cashback, liquid staking yields | [ether.fi ↗](https://app.ether.fi/weeth?address=0xB7f6227F09CF8Bd2C8897c71d3b980F42ac95544) |
+| EtherFi | DeFi neobank with Visa card, up to 3% cashback in wETH, spend against staked ETH | [ether.fi ↗](https://app.ether.fi/weeth?address=0xB7f6227F09CF8Bd2C8897c71d3b980F42ac95544) |
 
 ### Crypto Platforms
 
 | Service | Description | Link |
 |---------|-------------|------|
 | Binance | World's largest crypto exchange with P2P marketplace | [binance.com](https://www.binance.com) |
-| Kraken | Major regulated exchange with advanced trading and staking | [kraken.com ↗](https://invite.kraken.com/JDNW/i3xy94c5) |
+| Kraken | Major regulated cryptocurrency exchange with advanced trading and staking | [kraken.com ↗](https://invite.kraken.com/JDNW/i3xy94c5) |
 | Rabby Wallet | Multi-chain Web3 wallet with built-in security engine | [rabby.io](https://rabby.io) |
-| Firefish | Bitcoin-collateralized loans connecting borrowers with lenders (30% off platform fee) | [firefish.io ↗](https://firefish.io?ref=POLYSTATE) |
+| Firefish | Bitcoin-collateralized loans connecting borrowers with global lenders (30% off) | [firefish.io ↗](https://firefish.io?ref=POLYSTATE) |
 | Chainflip | Decentralized cross-chain swaps with native asset support | [chainflip.io](https://swap.chainflip.io/) |
 | Trocador | Non-KYC crypto swap aggregator comparing rates across exchanges | [trocador.app](https://trocador.app/en/) |
 
@@ -108,9 +108,9 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 
 | Service | Description | Link |
 |---------|-------------|------|
-| Gauntlet USD Alpha | Risk-optimized stablecoin vault targeting safe DeFi yields | [gauntlet.xyz](https://app.gauntlet.xyz/vaults/gtusda) |
+| Gauntlet AlphaUSD | Risk-optimized stablecoin vault by Gauntlet targeting safe DeFi yields | [gauntlet.xyz](https://app.gauntlet.xyz/vaults/gtusda) |
 | Ethena | USDe synthetic dollar protocol backed by staked ETH | [ethena.fi ↗](https://app.ethena.fi/join/8ci0r) |
-| Resolv | Delta-neutral stablecoin protocol generating yield from funding rates | [resolv.xyz ↗](https://app.resolv.xyz/ref/stancel) |
+| Resolv | Delta-neutral stablecoin protocol generating yield from ETH funding rates | [resolv.xyz ↗](https://app.resolv.xyz/ref/stancel) |
 | Atomic Exchange | Decentralized exchange for trustless BTC and SOL atomic swaps | [atomiq.exchange ↗](https://app.atomiq.exchange/?affiliate=HkGW97WaqA6RNyybjwA28e) |
 
 ### Travel
@@ -172,7 +172,9 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 
 ---
 
-## 1. Wallets & Hardware
+<a id="1-wallets--hardware"></a>
+<details>
+<summary><strong>1. Wallets & Hardware</strong> (9 tools)</summary>
 
 | # | Tool | Description | Link | Polystate |
 |---|------|-------------|------|-----------|
@@ -180,13 +182,17 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 | 2 | Zeus | Self-custodial Lightning wallet that connects to your own node | [zeusln.com](https://zeusln.com) | 🆕 |
 | 3 | Breez | Lightning wallet and SDK provider with built-in point-of-sale | [breez.technology](https://breez.technology) | 🆕 |
 | 4 | AlbyHub | Self-custodial Lightning node-in-a-box with NWC app connections | [albyhub.com](https://albyhub.com) | 🆕 |
-| 5 | Zodl (formerly Zashi) | Zcash wallet with shielded private transactions by default | [zashi.app](https://zashi.app) | 🆕 |
+| 5 | ⭐ Zodl (formerly Zashi) | Zcash wallet with shielded private transactions by default | [zodl.com](https://zodl.com) | 🆕 |
 | 6 | Decaf Wallet | Stablecoin wallet enabling cash-in/cash-out via MoneyGram worldwide | [decaf.so](https://www.decaf.so) | 🆕 |
 | 7 | ⭐ Trezor | Pioneer open-source hardware wallet for secure offline crypto storage | [trezor.io](https://trezor.io) | 🆕 |
 | 8 | Keystone 3 Pro | Air-gapped hardware wallet with QR code signing, multi-chain support | [keyst.one](https://keyst.one) | 🆕 |
 | 9 | Wasabi Wallet | Bitcoin wallet with built-in CoinJoin for transaction privacy and Tor integration | [wasabiwallet.io](https://wasabiwallet.io) | 🆕 |
 
-## 2. Exchanges & Swap Platforms
+</details>
+
+<a id="2-exchanges--swap-platforms"></a>
+<details>
+<summary><strong>2. Exchanges & Swap Platforms</strong> (19 tools)</summary>
 
 | # | Tool | Description | Link | Polystate |
 |---|------|-------------|------|-----------|
@@ -210,7 +216,11 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 | 27 | RoboSats | Tor-exclusive Lightning-based P2P exchange, sub-5 minute trades | [robosats.com](https://robosats.com) | 🆕 |
 | 28 | Hodl Hodl | Non-custodial P2P Bitcoin exchange with escrow, no KYC | [hodlhodl.com](https://hodlhodl.com) | 🆕 |
 
-## 3. Crypto Cards & Payment
+</details>
+
+<a id="3-crypto-cards--payment"></a>
+<details>
+<summary><strong>3. Crypto Cards & Payment</strong> (11 tools)</summary>
 
 | # | Tool | Description | Link | Polystate |
 |---|------|-------------|------|-----------|
@@ -226,7 +236,11 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 | 38 | Nexo Card | Dual-mode card (credit + debit), borrow against crypto without selling, up to 2% cashback | [nexo.com](https://nexo.com) | 🆕 |
 | 39 | Holyheld | Mastercard supporting 1,200+ tokens across 17+ blockchains, 0.5% USDC cashback | [holyheld.com](https://holyheld.com) | 🆕 |
 
-## 4. SEPA & Fiat Bridge Services
+</details>
+
+<a id="4-sepa--fiat-bridge-services"></a>
+<details>
+<summary><strong>4. SEPA & Fiat Bridge Services</strong> (4 tools)</summary>
 
 | # | Tool | Description | Link | Polystate |
 |---|------|-------------|------|-----------|
@@ -235,7 +249,11 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 | 42 | Bringin.xyz | Pay SEPA bills via Bitcoin Lightning, 15 EUR minimum | [bringin.xyz](https://bringin.xyz) | 🆕 |
 | 43 | Strike | Lightning payments app, accepts LN deposits, easy fiat bridge | [strike.me](https://strike.me) | 🆕 |
 
-## 5. Digital Banking & Fintech
+</details>
+
+<a id="5-digital-banking--fintech"></a>
+<details>
+<summary><strong>5. Digital Banking & Fintech</strong> (3 tools)</summary>
 
 | # | Tool | Description | Link | Polystate |
 |---|------|-------------|------|-----------|
@@ -243,7 +261,11 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 | 45 | N26 | CRS European fintech bank with free basic account. Under BaFin regulatory oversight | [n26.com](https://n26.com) | 🆕 |
 | 46 | Zen | CRS banking that accepts Lightning Network deposits | [zen.com](https://www.zen.com) | 🆕 |
 
-## 6. Non-CRS Bank Accounts (Privacy Banking)
+</details>
+
+<a id="6-non-crs-bank-accounts-privacy-banking"></a>
+<details>
+<summary><strong>6. Non-CRS Bank Accounts (Privacy Banking)</strong> (4 tools)</summary>
 
 | # | Bank | Country | Description | Link | Polystate |
 |---|------|---------|-------------|------|-----------|
@@ -252,7 +274,11 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 | 49 | Cambodian banks | Cambodia | Remote opening available, non-CRS jurisdiction | — | 🆕 |
 | 50 | Familiar / ITAU / UENO | Paraguay | Local banks requiring cedula residency | — | 🆕 |
 
-## 7. CRS Bank with Non-CRS Residency Strategy
+</details>
+
+<a id="7-crs-bank-with-non-crs-residency-strategy"></a>
+<details>
+<summary><strong>7. CRS Bank with Non-CRS Residency Strategy</strong> (1 tool + strategy guide)</summary>
 
 > **Strategy:** Combine a non-CRS tax residency (Paraguay, Panama, Kyrgyzstan, Cambodia) with a CRS-reporting bank. The bank reports to your country of tax residency — which doesn't participate in CRS. Result: no automatic exchange of financial data.
 
@@ -269,7 +295,11 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 | Kyrgyzstan | Non-CRS | Bakai Bank (VISA Infinite), ABank | Easy to open for foreigners. Low cost of living, emerging nomad hub. |
 | Cambodia | Non-CRS | ABA Bank, ACLEDA, Wing Bank | Remote opening possible. USD widely accepted. Minimal reporting. |
 
-## 8. DeFi, Lending & Yield
+</details>
+
+<a id="8-defi-lending--yield"></a>
+<details>
+<summary><strong>8. DeFi, Lending & Yield</strong> (11 tools)</summary>
 
 | # | Tool | Description | Link | Polystate |
 |---|------|-------------|------|-----------|
@@ -285,7 +315,11 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 | 61 | Zerion | Multi-chain DeFi portfolio tracker + wallet, tracks positions across all chains | [zerion.io](https://zerion.io) | 🆕 |
 | 62 | DeBank | DeFi portfolio tracker with best protocol detection for lending, LP, and staking positions | [debank.com](https://debank.com) | 🆕 |
 
-## 9. Tax & Accounting
+</details>
+
+<a id="9-tax--accounting"></a>
+<details>
+<summary><strong>9. Tax & Accounting</strong> (3 tools)</summary>
 
 | # | Tool | Description | Link | Polystate |
 |---|------|-------------|------|-----------|
@@ -293,7 +327,11 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 | 64 | CoinTracker | Portfolio tracking + tax reporting with deep Coinbase integration | [cointracker.io](https://www.cointracker.io) | 🆕 |
 | 65 | CoinLedger | Simplified crypto tax reporting, integrates with TurboTax/TaxAct | [coinledger.io](https://coinledger.io) | 🆕 |
 
-## 10. Payroll & Invoicing
+</details>
+
+<a id="10-payroll--invoicing"></a>
+<details>
+<summary><strong>10. Payroll & Invoicing</strong> (3 tools)</summary>
 
 | # | Tool | Description | Link | Polystate |
 |---|------|-------------|------|-----------|
@@ -301,7 +339,11 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 | 67 | ⭐ Request Finance | Crypto invoicing for freelancers, 100+ tokens, $450M+ processed | [request.finance](https://www.request.finance) | 🆕 |
 | 68 | Rise | Stablecoin payroll across 190+ countries, $2.50/transaction | [riseworks.io](https://www.riseworks.io) | 🆕 |
 
-## 11. On/Off-Ramp
+</details>
+
+<a id="11-onoff-ramp"></a>
+<details>
+<summary><strong>11. On/Off-Ramp</strong> (3 tools)</summary>
 
 | # | Tool | Description | Link | Polystate |
 |---|------|-------------|------|-----------|
@@ -309,7 +351,11 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 | 70 | Transak | Fiat-to-crypto on-ramp with MetaMask integration, 160+ countries, flat 1% fee | [transak.com](https://transak.com) | 🆕 |
 | 71 | Ramp Network | Buy-crypto buttons inside DeFi apps, instant SEPA support in Europe | [ramp.network](https://ramp.network) | 🆕 |
 
-## 12. Travel & Commerce
+</details>
+
+<a id="12-travel--commerce"></a>
+<details>
+<summary><strong>12. Travel & Commerce</strong> (6 tools)</summary>
 
 | # | Tool | Description | Link | Polystate |
 |---|------|-------------|------|-----------|
@@ -320,7 +366,11 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 | 76 | ShopinBit | European online shop accepting Bitcoin and crypto for everyday products | [shopinbit.com](https://www.shopinbit.com) | 🆕 |
 | 77 | ⭐ BitRefill | Buy gift cards, eSIMs, and phone top-ups with cryptocurrency | [bitrefill.com](https://www.bitrefill.com) | 🆕 |
 
-## 13. Cash Access
+</details>
+
+<a id="13-cash-access"></a>
+<details>
+<summary><strong>13. Cash Access</strong> (4 tools)</summary>
 
 | # | Tool | Description | Link | Polystate |
 |---|------|-------------|------|-----------|
@@ -329,7 +379,11 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 | 80 | Western Union | Global money transfer service for sending and receiving cash | [westernunion.com](https://www.westernunion.com) | 🆕 |
 | 81 | Meru | Pay Latin American bills and utilities using crypto and stablecoins | [meru.life](https://www.meru.life) | 🆕 |
 
-## 14. Privacy & Security
+</details>
+
+<a id="14-privacy--security"></a>
+<details>
+<summary><strong>14. Privacy & Security</strong> (8 tools)</summary>
 
 | # | Tool | Description | Link | Polystate |
 |---|------|-------------|------|-----------|
@@ -342,7 +396,11 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 | 88 | ⭐ Mullvad VPN | No-logs VPN accepting BTC, XMR, Lightning, and cash. No personal info required | [mullvad.net](https://mullvad.net) | 🆕 |
 | 89 | ⭐ Silent Link | Zero-KYC eSIM provider, pay via Bitcoin/Lightning, anonymous mobile data in 100+ countries | [silent.link](https://silent.link) | 🆕 |
 
-## 15. Research & Directories
+</details>
+
+<a id="15-research--directories"></a>
+<details>
+<summary><strong>15. Research & Directories</strong> (3 tools)</summary>
 
 | # | Tool | Description | Link | Polystate |
 |---|------|-------------|------|-----------|
@@ -350,7 +408,11 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 | 91 | Monerica | Directory of merchants, services, and exchanges accepting Monero | [monerica.com](https://monerica.com) | 🆕 |
 | 92 | XMRBazaar | Peer-to-peer marketplace for goods and services paid in Monero | [xmrbazaar.com](https://xmrbazaar.com) | 🆕 |
 
-## 16. Education & Community
+</details>
+
+<a id="16-education--community"></a>
+<details>
+<summary><strong>16. Education & Community</strong> (5 tools)</summary>
 
 | # | Tool | Description | Link | Polystate |
 |---|------|-------------|------|-----------|
@@ -359,6 +421,8 @@ The platform covers key jurisdictions like Paraguay, Panama, Georgia, Prospera (
 | 95 | MSc in Digital Currency | University of Nicosia master's program in blockchain and digital currency | [unic.ac.cy ↗](https://www.unic.ac.cy/iff/education-and-training/master-degrees/msc-in-blockchain-and-digital-currency/?utm_source=david) | 🆕 |
 | 96 | UNIC Certifications | University of Nicosia blockchain certification programs | [unic.ac.cy ↗](https://www.unic.ac.cy/iff/education-and-training/academic-certification/?utm_source=david%20stancel&utm_medium=pr) | 🆕 |
 | 97 | Skool — New Society | AI tools community and learning platform | [skool.com ↗](https://www.skool.com/signup?ref=08cb41d6b2644c0d8b4ce843b4018c8f) | 🆕 |
+
+</details>
 
 ---
 

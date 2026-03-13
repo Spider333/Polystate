@@ -16,7 +16,7 @@
         { "id": 2, "name": "Zeus", "description": "Self-custodial Lightning wallet that connects to your own node", "url": "https://zeusln.com", "pick": false, "on_polystate": false },
         { "id": 3, "name": "Breez", "description": "Lightning wallet and SDK provider with built-in point-of-sale", "url": "https://breez.technology", "pick": false, "on_polystate": false },
         { "id": 4, "name": "AlbyHub", "description": "Self-custodial Lightning node-in-a-box with NWC app connections", "url": "https://albyhub.com", "pick": false, "on_polystate": false },
-        { "id": 5, "name": "Zodl (formerly Zashi)", "description": "Zcash wallet with shielded private transactions by default", "url": "https://zashi.app", "pick": false, "on_polystate": false },
+        { "id": 5, "name": "Zodl (formerly Zashi)", "description": "Zcash wallet with shielded private transactions by default", "url": "https://zodl.com", "pick": true, "on_polystate": false },
         { "id": 6, "name": "Decaf Wallet", "description": "Stablecoin wallet enabling cash-in/cash-out via MoneyGram worldwide", "url": "https://www.decaf.so", "pick": false, "on_polystate": false },
         { "id": 7, "name": "Trezor", "description": "Pioneer open-source hardware wallet for secure offline crypto storage", "url": "https://trezor.io", "pick": true, "on_polystate": false },
         { "id": 8, "name": "Keystone 3 Pro", "description": "Air-gapped hardware wallet with QR code signing, multi-chain support", "url": "https://keyst.one", "pick": false, "on_polystate": false },
